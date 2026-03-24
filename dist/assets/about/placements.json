@@ -1,0 +1,737 @@
+{
+  "resolution": {
+    "x": 1024,
+    "y": 740
+  },
+  "animTracks": {},
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Instance4",
+        "template": true,
+        "guide": false,
+        "instanceName": "instance4",
+        "filters": {},
+        "portrait": {
+          "isAnchored": false,
+          "height": 685.9000000000001,
+          "pivotY": 0,
+          "skewY": 0,
+          "rotation": 0,
+          "x": -46,
+          "skewX": 0,
+          "scaleX": 0.8,
+          "y": 196,
+          "visible": true,
+          "scaleY": 0.8,
+          "pivotX": 0,
+          "alpha": 1,
+          "width": 945
+        },
+        "landscape": {
+          "isAnchored": false,
+          "height": 685.9000000000001,
+          "pivotY": 0,
+          "skewY": 0,
+          "rotation": 0,
+          "x": 14,
+          "skewX": 0,
+          "scaleX": 1,
+          "y": 14,
+          "visible": true,
+          "scaleY": 1,
+          "pivotX": 0,
+          "alpha": 1,
+          "width": 945
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "Instance4": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance5",
+          "template": true,
+          "guide": false,
+          "instanceName": "instance5",
+          "filters": {},
+          "portrait": {
+            "isAnchored": false,
+            "height": 665.9,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 50,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 35,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 921.1
+          },
+          "landscape": {
+            "isAnchored": false,
+            "height": 665.9,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 50,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 35,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 921.1
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance7",
+          "template": true,
+          "guide": false,
+          "instanceName": "instance7",
+          "filters": {},
+          "portrait": {
+            "isAnchored": false,
+            "height": 611,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 50,
+            "skewX": 0,
+            "scaleX": 1.05,
+            "y": 94,
+            "visible": true,
+            "scaleY": 0.91,
+            "pivotX": 0,
+            "alpha": 0.3515625,
+            "width": 882
+          },
+          "landscape": {
+            "isAnchored": false,
+            "height": 611,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 50,
+            "skewX": 0,
+            "scaleX": 1.05,
+            "y": 94,
+            "visible": true,
+            "scaleY": 0.91,
+            "pivotX": 0,
+            "alpha": 0.3515625,
+            "width": 882
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "AboutTopTitleTXT",
+          "template": true,
+          "guide": false,
+          "instanceName": "aboutTopTitleTXT",
+          "filters": {},
+          "portrait": {
+            "isAnchored": false,
+            "height": 54,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 64,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 40,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 893
+          },
+          "landscape": {
+            "isAnchored": false,
+            "height": 54,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 64,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 40,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 893
+          }
+        },
+        {
+          "portrait": {
+            "isAnchored": false,
+            "height": 79.7,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 964,
+            "skewX": 0,
+            "scaleX": 0.78,
+            "y": 46,
+            "visible": true,
+            "scaleY": 0.78,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 79.7
+          },
+          "landscape": {
+            "isAnchored": false,
+            "height": 79.7,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 964.2,
+            "skewX": 0,
+            "scaleX": 0.78,
+            "y": 46.15,
+            "visible": true,
+            "scaleY": 0.78,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 79.7
+          },
+          "type": "btn",
+          "name": "XButton",
+          "guide": false,
+          "template": true,
+          "instanceName": "xButton",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance11",
+          "template": true,
+          "guide": false,
+          "instanceName": "instance11",
+          "filters": {},
+          "portrait": {
+            "isAnchored": false,
+            "height": 516.15,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 52,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 116,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 918.25
+          },
+          "landscape": {
+            "isAnchored": false,
+            "height": 516.15,
+            "pivotY": 0,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 52,
+            "skewX": 0,
+            "scaleX": 1,
+            "y": 116,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "width": 918.25
+          }
+        },
+        {
+          "type": "scrollBar",
+          "editorOnly": false,
+          "name": "ExampleScrollTemplate_1",
+          "template": true,
+          "guide": false,
+          "instanceName": "scrollView",
+          "filters": {},
+          "portrait": {
+            "x": 78,
+            "y": 130,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 78,
+            "y": 130,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Instance4"
+    },
+    "Instance5": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance5_IMG",
+          "width": 922,
+          "height": 666,
+          "x": -0.5,
+          "y": -0.5,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance5.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance5"
+    },
+    "Instance7": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance7_IMG",
+          "width": 882,
+          "height": 611,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance7.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance7"
+    },
+    "AboutTopTitleTXT": {
+      "children": [
+        {
+          "text": "About Granny Tales",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 440,
+          "height": 60,
+          "alpha": 1,
+          "size": 50,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": false,
+          "wordWrapWidth": 100,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "AboutTopTitleTXT"
+    },
+    "XButton": {
+      "type": "btn",
+      "name": "XButton",
+      "children": [
+        {
+          "type": "img",
+          "name": "XButton_IMG",
+          "width": 80,
+          "height": 80,
+          "x": -39.85,
+          "y": -39.85,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/xButton.webp",
+          "filters": {}
+        }
+      ]
+    },
+    "Instance11": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance11_IMG",
+          "width": 919,
+          "height": 421,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/aboutTXTArea.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance11"
+    },
+    "ExampleScrollTemplate_1": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "ExampleScrollContentTemplate_1",
+          "template": true,
+          "guide": false,
+          "instanceName": "scrollContent",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 4,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 0,
+            "y": 4,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "ExampleScrollBarTemplateInner_1",
+          "template": true,
+          "guide": false,
+          "instanceName": "scrollBar",
+          "filters": {},
+          "portrait": {
+            "x": 873,
+            "y": -2,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 873,
+            "y": -2,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "ExampleScrollBeedTemplate_1",
+          "template": true,
+          "guide": false,
+          "instanceName": "beed",
+          "filters": {},
+          "portrait": {
+            "x": 873,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1.15,
+            "scaleY": 1.15,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 873,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1.15,
+            "scaleY": 1.15,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ],
+      "type": "scrollBar",
+      "name": "ExampleScrollTemplate_1"
+    },
+    "ExampleScrollContentTemplate_1": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "ExampleText_1",
+          "template": true,
+          "guide": false,
+          "instanceName": "myText",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "ExampleScrollContentTemplate_1"
+    },
+    "ExampleText_1": {
+      "children": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n in dignissim nulla. Aliquam erat volutpat. Suspendisse nunc diam, \n facilisis in libero euismod, pretium pellentesque neque. \n Aliquam vehicula nibh ligula, vel auctor eros bibendum eu. \n Nullam elementum laoreet tempor. Sed posuere, quam sit amet \n ultrices convallis, metus neque tristique dui, \n vitae viverra eros felis rhoncus justo. In magna metus, \n tincidunt eu est a, tincidunt imperdiet tellus. Nulla ultrices, \n ipsum vel cursus mollis, augue metus fermentum ligula, in maximus \n purus sem vitae lorem. Etiam sed diam sem. Duis efficitur neque sit \n amet enim malesuada, non suscipit diam tristique. Etiam iaculis \n elementum justo, vel auctor elit faucibus at. Nulla bibendum urna laoreet sapien mollis, a ullamcorper nibh pretium.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n in dignissim nulla. Aliquam erat volutpat. Suspendisse nunc diam, \n facilisis in libero euismod, pretium pellentesque neque. \n Aliquam vehicula nibh ligula, vel auctor eros bibendum eu. \n Nullam elementum laoreet tempor. Sed posuere, quam sit amet \n ultrices convallis, metus neque tristique dui, \n vitae viverra eros felis rhoncus justo. In magna metus, \n tincidunt eu est a, tincidunt imperdiet tellus. Nulla ultrices, \n ipsum vel cursus mollis, augue metus fermentum ligula, in maximus \n purus sem vitae lorem. Etiam sed diam sem. Duis efficitur neque sit \n amet enim malesuada, non suscipit diam tristique. Etiam iaculis \n elementum justo, vel auctor elit faucibus at. Nulla bibendum urna laoreet sapien mollis, a ullamcorper nibh pretium.Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n in dignissim nulla. Aliquam erat volutpat. Suspendisse nunc diam, \n facilisis in libero euismod, pretium pellentesque neque. \n Aliquam vehicula nibh ligula, vel auctor eros bibendum eu. \n Nullam elementum laoreet tempor. Sed posuere, quam sit amet \n ultrices convallis, metus neque tristique dui, \n vitae viverra eros felis rhoncus justo. In magna metus.",
+          "type": "textField",
+          "name": "label_1",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 816,
+          "height": 1440,
+          "alpha": 1,
+          "size": 28,
+          "align": "left",
+          "fontName": "Arial",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": true,
+          "wordWrapWidth": 842.69,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "bold",
+          "dropShadow": false,
+          "dropShadowAngle": 1.43,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#1a1919",
+          "dropShadowDistance": 9,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "ExampleText_1"
+    },
+    "ExampleScrollBarTemplateInner_1": {
+      "children": [
+        {
+          "type": "9slice",
+          "name": "ExampleScrollBarTemplateInner_1_9S",
+          "width": 17.51217429372082,
+          "height": 501,
+          "pivotX": 0,
+          "pivotY": 0,
+          "origWidth": 10,
+          "origHeight": 369,
+          "x": 0,
+          "y": 0,
+          "filePath": "images/scroll_bar_btn_focused.webp",
+          "filters": {},
+          "left": 20,
+          "right": 20,
+          "top": 20,
+          "bottom": 20,
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorType": "none",
+            "anchorPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 17.51217429372082,
+            "height": 600
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorType": "none",
+            "anchorPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 17.51217429372082,
+            "height": 501
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "ExampleScrollBarTemplateInner_1"
+    },
+    "ExampleScrollBeedTemplate_1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "ExampleScrollBeedTemplate_1_IMG",
+          "width": 15,
+          "height": 112,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/scroll_bar_btn_disabled.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "ExampleScrollBeedTemplate_1"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

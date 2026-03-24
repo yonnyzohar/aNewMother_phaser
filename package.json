@@ -1,0 +1,33 @@
+{
+  "name": "granny-tales-a-new-mother",
+  "version": "1.0.0",
+  "description": "Granny Tales - A New Mother (Phaser version)",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/eslint": "^9.6.1",
+    "@types/gsap": "^3.0.0",
+    "@types/node": "^22.13.2",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.1.6",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "ignore": [
+    "node_modules",
+    "logs",
+    "*.log",
+    ".vscode"
+  ],
+  "dependencies": {
+    "gsap": "^3.12.0",
+    "phaser": "^3.80.0",
+    "zimporter-phaser": "latest"
+  }
+}

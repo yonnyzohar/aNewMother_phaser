@@ -1,0 +1,5557 @@
+{
+  "resolution": {
+    "x": 907,
+    "y": 512
+  },
+  "animTracks": {
+    "duck1inner_Duck1": [
+      {
+        "chilName": "duck1inner",
+        "parentTemplate": "Duck1",
+        "x": -3,
+        "y": 3,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -2,
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "y": 14,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "y": 16,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      },
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 13,
+        "endFrame": 13,
+        "easing": "none"
+      },
+      {
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 14,
+        "endFrame": 14,
+        "easing": "none"
+      },
+      {
+        "y": 19,
+        "keyFrame": true,
+        "currentFrame": 15,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 16,
+        "easing": "none"
+      },
+      {
+        "y": 22,
+        "keyFrame": true,
+        "currentFrame": 17,
+        "endFrame": 17,
+        "easing": "none"
+      },
+      {
+        "y": 23,
+        "keyFrame": true,
+        "currentFrame": 18,
+        "endFrame": 18,
+        "easing": "none"
+      },
+      {
+        "y": 24,
+        "keyFrame": true,
+        "currentFrame": 19,
+        "endFrame": 19,
+        "easing": "none"
+      },
+      {
+        "y": 25,
+        "keyFrame": true,
+        "currentFrame": 20,
+        "endFrame": 20,
+        "easing": "none"
+      },
+      {
+        "y": 26,
+        "keyFrame": true,
+        "currentFrame": 21,
+        "endFrame": 21,
+        "easing": "none"
+      },
+      {
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 22,
+        "easing": "none"
+      },
+      {
+        "y": 28,
+        "keyFrame": true,
+        "currentFrame": 23,
+        "endFrame": 23,
+        "easing": "none"
+      },
+      {
+        "y": 29,
+        "keyFrame": true,
+        "currentFrame": 24,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {
+        "y": 30,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 25,
+        "easing": "none"
+      },
+      {
+        "y": 31,
+        "keyFrame": true,
+        "currentFrame": 26,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {
+        "y": 32,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {
+        "y": 33,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {
+        "y": 34,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 29,
+        "easing": "none"
+      },
+      {
+        "y": 35,
+        "keyFrame": true,
+        "currentFrame": 30,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {
+        "y": 36,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 31,
+        "easing": "none"
+      },
+      {
+        "y": 38,
+        "keyFrame": true,
+        "currentFrame": 32,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {
+        "y": 39,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 33,
+        "easing": "none"
+      },
+      {
+        "y": 40,
+        "keyFrame": true,
+        "currentFrame": 34,
+        "endFrame": 34,
+        "easing": "none"
+      },
+      {
+        "y": 41,
+        "keyFrame": true,
+        "currentFrame": 35,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {
+        "y": 42,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 36,
+        "easing": "none"
+      },
+      {
+        "y": 43,
+        "keyFrame": true,
+        "currentFrame": 37,
+        "endFrame": 37,
+        "easing": "none"
+      },
+      {
+        "y": 44,
+        "keyFrame": true,
+        "currentFrame": 38,
+        "endFrame": 38,
+        "easing": "none"
+      },
+      {
+        "y": 45,
+        "keyFrame": true,
+        "currentFrame": 39,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {
+        "y": 46,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 40,
+        "easing": "none"
+      },
+      {
+        "y": 47,
+        "keyFrame": true,
+        "currentFrame": 41,
+        "endFrame": 41,
+        "easing": "none"
+      },
+      {
+        "y": 48,
+        "keyFrame": true,
+        "currentFrame": 42,
+        "endFrame": 42,
+        "easing": "none"
+      },
+      {
+        "y": 49,
+        "keyFrame": true,
+        "currentFrame": 43,
+        "endFrame": 43,
+        "easing": "none"
+      },
+      {
+        "y": 50,
+        "keyFrame": true,
+        "currentFrame": 44,
+        "endFrame": 44,
+        "easing": "none"
+      },
+      {
+        "y": 49,
+        "keyFrame": true,
+        "currentFrame": 45,
+        "endFrame": 45,
+        "easing": "none"
+      },
+      {
+        "y": 48,
+        "keyFrame": true,
+        "currentFrame": 46,
+        "endFrame": 46,
+        "easing": "none"
+      },
+      {
+        "y": 47,
+        "keyFrame": true,
+        "currentFrame": 47,
+        "endFrame": 47,
+        "easing": "none"
+      },
+      {
+        "y": 46,
+        "keyFrame": true,
+        "currentFrame": 48,
+        "endFrame": 48,
+        "easing": "none"
+      },
+      {
+        "y": 45,
+        "keyFrame": true,
+        "currentFrame": 49,
+        "endFrame": 49,
+        "easing": "none"
+      },
+      {
+        "y": 44,
+        "keyFrame": true,
+        "currentFrame": 50,
+        "endFrame": 50,
+        "easing": "none"
+      },
+      {
+        "y": 43,
+        "keyFrame": true,
+        "currentFrame": 51,
+        "endFrame": 51,
+        "easing": "none"
+      },
+      {
+        "y": 42,
+        "keyFrame": true,
+        "currentFrame": 52,
+        "endFrame": 52,
+        "easing": "none"
+      },
+      {
+        "y": 41,
+        "keyFrame": true,
+        "currentFrame": 53,
+        "endFrame": 53,
+        "easing": "none"
+      },
+      {
+        "y": 40,
+        "keyFrame": true,
+        "currentFrame": 54,
+        "endFrame": 54,
+        "easing": "none"
+      },
+      {
+        "y": 39,
+        "keyFrame": true,
+        "currentFrame": 55,
+        "endFrame": 55,
+        "easing": "none"
+      },
+      {
+        "y": 38,
+        "keyFrame": true,
+        "currentFrame": 56,
+        "endFrame": 56,
+        "easing": "none"
+      },
+      {
+        "y": 37,
+        "keyFrame": true,
+        "currentFrame": 57,
+        "endFrame": 57,
+        "easing": "none"
+      },
+      {
+        "y": 36,
+        "keyFrame": true,
+        "currentFrame": 58,
+        "endFrame": 58,
+        "easing": "none"
+      },
+      {
+        "y": 35,
+        "keyFrame": true,
+        "currentFrame": 59,
+        "endFrame": 59,
+        "easing": "none"
+      },
+      {
+        "y": 34,
+        "keyFrame": true,
+        "currentFrame": 60,
+        "endFrame": 60,
+        "easing": "none"
+      },
+      {
+        "y": 33,
+        "keyFrame": true,
+        "currentFrame": 61,
+        "endFrame": 61,
+        "easing": "none"
+      },
+      {
+        "y": 32,
+        "keyFrame": true,
+        "currentFrame": 62,
+        "endFrame": 62,
+        "easing": "none"
+      },
+      {
+        "y": 31,
+        "keyFrame": true,
+        "currentFrame": 63,
+        "endFrame": 63,
+        "easing": "none"
+      },
+      {
+        "y": 29,
+        "keyFrame": true,
+        "currentFrame": 64,
+        "endFrame": 64,
+        "easing": "none"
+      },
+      {
+        "y": 28,
+        "keyFrame": true,
+        "currentFrame": 65,
+        "endFrame": 65,
+        "easing": "none"
+      },
+      {
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 66,
+        "endFrame": 66,
+        "easing": "none"
+      },
+      {
+        "y": 26,
+        "keyFrame": true,
+        "currentFrame": 67,
+        "endFrame": 67,
+        "easing": "none"
+      },
+      {
+        "y": 25,
+        "keyFrame": true,
+        "currentFrame": 68,
+        "endFrame": 68,
+        "easing": "none"
+      },
+      {
+        "y": 24,
+        "keyFrame": true,
+        "currentFrame": 69,
+        "endFrame": 69,
+        "easing": "none"
+      },
+      {
+        "y": 23,
+        "keyFrame": true,
+        "currentFrame": 70,
+        "endFrame": 70,
+        "easing": "none"
+      },
+      {
+        "y": 22,
+        "keyFrame": true,
+        "currentFrame": 71,
+        "endFrame": 71,
+        "easing": "none"
+      },
+      {
+        "y": 21,
+        "keyFrame": true,
+        "currentFrame": 72,
+        "endFrame": 72,
+        "easing": "none"
+      },
+      {
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 73,
+        "endFrame": 73,
+        "easing": "none"
+      },
+      {
+        "y": 19,
+        "keyFrame": true,
+        "currentFrame": 74,
+        "endFrame": 74,
+        "easing": "none"
+      },
+      {
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 75,
+        "endFrame": 75,
+        "easing": "none"
+      },
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 76,
+        "endFrame": 76,
+        "easing": "none"
+      },
+      {
+        "y": 16,
+        "keyFrame": true,
+        "currentFrame": 77,
+        "endFrame": 77,
+        "easing": "none"
+      },
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 78,
+        "endFrame": 78,
+        "easing": "none"
+      },
+      {
+        "y": 14,
+        "keyFrame": true,
+        "currentFrame": 79,
+        "endFrame": 79,
+        "easing": "none"
+      },
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 80,
+        "endFrame": 80,
+        "easing": "none"
+      },
+      {
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 81,
+        "endFrame": 81,
+        "easing": "none"
+      },
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 82,
+        "endFrame": 82,
+        "easing": "none"
+      },
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 83,
+        "endFrame": 83,
+        "easing": "none"
+      },
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 84,
+        "endFrame": 84,
+        "easing": "none"
+      },
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 85,
+        "endFrame": 85,
+        "easing": "none"
+      },
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 86,
+        "endFrame": 86,
+        "easing": "none"
+      },
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 87,
+        "endFrame": 87,
+        "easing": "none"
+      },
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 88,
+        "endFrame": 88,
+        "easing": "none"
+      }
+    ],
+    "tween11_Duck1inner": [
+      {
+        "chilName": "tween11",
+        "parentTemplate": "Duck1inner",
+        "x": 14,
+        "y": -5,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": 13,
+        "y": -3,
+        "rotation": 0.10468684607433333,
+        "scaleX": 0.9999660565577823,
+        "scaleY": 0.9999660565577823,
+        "skewX": 0.10468684607433333,
+        "skewY": 0.10468684607433333,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": 12,
+        "y": -1,
+        "rotation": 0.20940834212331924,
+        "scaleX": 0.9999484306408523,
+        "scaleY": 0.9999484306408523,
+        "skewX": 0.20940834212331924,
+        "skewY": 0.20940834212331924,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "rotation": 0.31414518414052306,
+        "scaleX": 0.9999081480508092,
+        "scaleY": 0.9999081480508092,
+        "skewX": 0.31414518414052306,
+        "skewY": 0.31414518414052306,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": 9,
+        "y": 1,
+        "rotation": 0.4188487678134792,
+        "scaleX": 0.9998843930193542,
+        "scaleY": 0.9998843930193542,
+        "skewX": 0.4188487678134792,
+        "skewY": 0.4188487678134792,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": 8,
+        "y": 3,
+        "rotation": 0.5235772628662027,
+        "scaleX": 0.9998846691883865,
+        "scaleY": 0.9998846691883865,
+        "skewX": 0.5235772628662027,
+        "skewY": 0.5235772628662027,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": 9,
+        "y": 1,
+        "rotation": 0.43632383589040113,
+        "scaleX": 0.9998481057010403,
+        "scaleY": 0.9998481057010403,
+        "skewX": 0.43632383589040113,
+        "skewY": 0.43632383589040113,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": 10,
+        "y": 0,
+        "rotation": 0.3490487121809105,
+        "scaleX": 0.9998850395481705,
+        "scaleY": 0.9998850395481705,
+        "skewX": 0.3490487121809105,
+        "skewY": 0.3490487121809105,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": 11,
+        "rotation": 0.26177904567190996,
+        "scaleX": 0.9999011112376546,
+        "scaleY": 0.9999011112376546,
+        "skewX": 0.26177904567190996,
+        "skewY": 0.26177904567190996,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": 12,
+        "y": -1,
+        "rotation": 0.1745316421742577,
+        "scaleX": 0.9999012168367885,
+        "scaleY": 0.9999012168367885,
+        "skewX": 0.1745316421742577,
+        "skewY": 0.1745316421742577,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": 13,
+        "y": -3,
+        "rotation": 0.0872737225446748,
+        "scaleX": 0.9999452526828774,
+        "scaleY": 0.9999452526828774,
+        "skewX": 0.0872737225446748,
+        "skewY": 0.0872737225446748,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": 14,
+        "y": -4,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "tween13_Duck1inner": [
+      {
+        "chilName": "tween13",
+        "parentTemplate": "Duck1inner",
+        "x": 1,
+        "y": 1,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 27,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "tween23_Goose": [
+      {
+        "chilName": "tween23",
+        "parentTemplate": "Goose",
+        "x": 0,
+        "y": 0,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 2,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 13,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 14,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 17,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 18,
+        "endFrame": 19,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 20,
+        "endFrame": 21,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 14,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 16,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 37,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 38,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 41,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 19,
+        "keyFrame": true,
+        "currentFrame": 42,
+        "endFrame": 43,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 44,
+        "endFrame": 44,
+        "easing": "none"
+      },
+      {
+        "y": 19,
+        "keyFrame": true,
+        "currentFrame": 45,
+        "endFrame": 46,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 47,
+        "endFrame": 48,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 49,
+        "endFrame": 50,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 16,
+        "keyFrame": true,
+        "currentFrame": 51,
+        "endFrame": 53,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 54,
+        "endFrame": 55,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 14,
+        "keyFrame": true,
+        "currentFrame": 56,
+        "endFrame": 57,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 58,
+        "endFrame": 59,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 60,
+        "endFrame": 62,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 63,
+        "endFrame": 64,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 65,
+        "endFrame": 66,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 67,
+        "endFrame": 68,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 69,
+        "endFrame": 71,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 72,
+        "endFrame": 73,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 74,
+        "endFrame": 75,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 76,
+        "endFrame": 77,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 78,
+        "endFrame": 80,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 81,
+        "endFrame": 82,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 83,
+        "endFrame": 84,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 85,
+        "endFrame": 86,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 87,
+        "endFrame": 87,
+        "easing": "none"
+      }
+    ],
+    "duck2inner_Duck2": [
+      {
+        "chilName": "duck2inner",
+        "parentTemplate": "Duck2",
+        "x": 0,
+        "y": 0,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 2,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 52,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "duck2mouthMC_Duck2inner": [
+      {
+        "chilName": "duck2mouthMC",
+        "parentTemplate": "Duck2inner",
+        "x": -66,
+        "y": -73,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 12,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "blackinner_Black": [
+      {
+        "chilName": "blackinner",
+        "parentTemplate": "Black",
+        "x": 0,
+        "y": -1,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": -7,
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": -11,
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": -15,
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -19,
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -22,
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": -26,
+        "y": 21,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": -30,
+        "y": 24,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": -34,
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": -38,
+        "y": 30,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": -42,
+        "y": 33,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "x": -45,
+        "y": 37,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      },
+      {
+        "x": -49,
+        "y": 40,
+        "keyFrame": true,
+        "currentFrame": 13,
+        "endFrame": 13,
+        "easing": "none"
+      },
+      {
+        "x": -53,
+        "y": 43,
+        "keyFrame": true,
+        "currentFrame": 14,
+        "endFrame": 14,
+        "easing": "none"
+      },
+      {
+        "x": -57,
+        "y": 46,
+        "keyFrame": true,
+        "currentFrame": 15,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {
+        "x": -61,
+        "y": 49,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 16,
+        "easing": "none"
+      },
+      {
+        "x": -64,
+        "y": 52,
+        "keyFrame": true,
+        "currentFrame": 17,
+        "endFrame": 17,
+        "easing": "none"
+      },
+      {
+        "x": -68,
+        "y": 55,
+        "keyFrame": true,
+        "currentFrame": 18,
+        "endFrame": 18,
+        "easing": "none"
+      },
+      {
+        "x": -72,
+        "y": 58,
+        "keyFrame": true,
+        "currentFrame": 19,
+        "endFrame": 19,
+        "easing": "none"
+      },
+      {
+        "x": -76,
+        "y": 61,
+        "keyFrame": true,
+        "currentFrame": 20,
+        "endFrame": 20,
+        "easing": "none"
+      },
+      {
+        "x": -80,
+        "y": 64,
+        "keyFrame": true,
+        "currentFrame": 21,
+        "endFrame": 21,
+        "easing": "none"
+      },
+      {
+        "x": -84,
+        "y": 68,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 22,
+        "easing": "none"
+      },
+      {
+        "x": -87,
+        "y": 71,
+        "keyFrame": true,
+        "currentFrame": 23,
+        "endFrame": 23,
+        "easing": "none"
+      },
+      {
+        "x": -91,
+        "y": 74,
+        "keyFrame": true,
+        "currentFrame": 24,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {
+        "x": -95,
+        "y": 77,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 25,
+        "easing": "none"
+      },
+      {
+        "x": -99,
+        "y": 80,
+        "keyFrame": true,
+        "currentFrame": 26,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {
+        "x": -103,
+        "y": 83,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {
+        "x": -106,
+        "y": 86,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {
+        "x": -110,
+        "y": 89,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 29,
+        "easing": "none"
+      },
+      {
+        "x": -114,
+        "y": 92,
+        "keyFrame": true,
+        "currentFrame": 30,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {
+        "x": -118,
+        "y": 95,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 31,
+        "easing": "none"
+      },
+      {
+        "x": -122,
+        "y": 99,
+        "keyFrame": true,
+        "currentFrame": 32,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {
+        "x": -126,
+        "y": 102,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 33,
+        "easing": "none"
+      },
+      {
+        "x": -129,
+        "y": 105,
+        "keyFrame": true,
+        "currentFrame": 34,
+        "endFrame": 34,
+        "easing": "none"
+      },
+      {
+        "x": -133,
+        "y": 108,
+        "keyFrame": true,
+        "currentFrame": 35,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {
+        "x": -137,
+        "y": 111,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 36,
+        "easing": "none"
+      },
+      {
+        "x": -141,
+        "y": 114,
+        "keyFrame": true,
+        "currentFrame": 37,
+        "endFrame": 37,
+        "easing": "none"
+      },
+      {
+        "x": -145,
+        "y": 117,
+        "keyFrame": true,
+        "currentFrame": 38,
+        "endFrame": 38,
+        "easing": "none"
+      },
+      {
+        "x": -149,
+        "y": 120,
+        "keyFrame": true,
+        "currentFrame": 39,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {
+        "x": -145,
+        "y": 117,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 40,
+        "easing": "none"
+      },
+      {
+        "x": -141,
+        "y": 114,
+        "keyFrame": true,
+        "currentFrame": 41,
+        "endFrame": 41,
+        "easing": "none"
+      },
+      {
+        "x": -137,
+        "y": 111,
+        "keyFrame": true,
+        "currentFrame": 42,
+        "endFrame": 42,
+        "easing": "none"
+      },
+      {
+        "x": -134,
+        "y": 108,
+        "keyFrame": true,
+        "currentFrame": 43,
+        "endFrame": 43,
+        "easing": "none"
+      },
+      {
+        "x": -130,
+        "y": 105,
+        "keyFrame": true,
+        "currentFrame": 44,
+        "endFrame": 44,
+        "easing": "none"
+      },
+      {
+        "x": -126,
+        "y": 102,
+        "keyFrame": true,
+        "currentFrame": 45,
+        "endFrame": 45,
+        "easing": "none"
+      },
+      {
+        "x": -122,
+        "y": 99,
+        "keyFrame": true,
+        "currentFrame": 46,
+        "endFrame": 46,
+        "easing": "none"
+      },
+      {
+        "x": -119,
+        "y": 96,
+        "keyFrame": true,
+        "currentFrame": 47,
+        "endFrame": 47,
+        "easing": "none"
+      },
+      {
+        "x": -115,
+        "y": 93,
+        "keyFrame": true,
+        "currentFrame": 48,
+        "endFrame": 48,
+        "easing": "none"
+      },
+      {
+        "x": -111,
+        "y": 90,
+        "keyFrame": true,
+        "currentFrame": 49,
+        "endFrame": 49,
+        "easing": "none"
+      },
+      {
+        "x": -108,
+        "y": 87,
+        "keyFrame": true,
+        "currentFrame": 50,
+        "endFrame": 50,
+        "easing": "none"
+      },
+      {
+        "x": -104,
+        "y": 84,
+        "keyFrame": true,
+        "currentFrame": 51,
+        "endFrame": 51,
+        "easing": "none"
+      },
+      {
+        "x": -100,
+        "y": 81,
+        "keyFrame": true,
+        "currentFrame": 52,
+        "endFrame": 52,
+        "easing": "none"
+      },
+      {
+        "x": -96,
+        "y": 78,
+        "keyFrame": true,
+        "currentFrame": 53,
+        "endFrame": 53,
+        "easing": "none"
+      },
+      {
+        "x": -93,
+        "y": 75,
+        "keyFrame": true,
+        "currentFrame": 54,
+        "endFrame": 54,
+        "easing": "none"
+      },
+      {
+        "x": -89,
+        "y": 72,
+        "keyFrame": true,
+        "currentFrame": 55,
+        "endFrame": 55,
+        "easing": "none"
+      },
+      {
+        "x": -85,
+        "y": 69,
+        "keyFrame": true,
+        "currentFrame": 56,
+        "endFrame": 56,
+        "easing": "none"
+      },
+      {
+        "x": -81,
+        "y": 66,
+        "keyFrame": true,
+        "currentFrame": 57,
+        "endFrame": 57,
+        "easing": "none"
+      },
+      {
+        "x": -78,
+        "y": 63,
+        "keyFrame": true,
+        "currentFrame": 58,
+        "endFrame": 58,
+        "easing": "none"
+      },
+      {
+        "x": -74,
+        "y": 60,
+        "keyFrame": true,
+        "currentFrame": 59,
+        "endFrame": 59,
+        "easing": "none"
+      },
+      {
+        "x": -70,
+        "y": 57,
+        "keyFrame": true,
+        "currentFrame": 60,
+        "endFrame": 60,
+        "easing": "none"
+      },
+      {
+        "x": -67,
+        "y": 54,
+        "keyFrame": true,
+        "currentFrame": 61,
+        "endFrame": 61,
+        "easing": "none"
+      },
+      {
+        "x": -63,
+        "y": 51,
+        "keyFrame": true,
+        "currentFrame": 62,
+        "endFrame": 62,
+        "easing": "none"
+      },
+      {
+        "x": -59,
+        "y": 48,
+        "keyFrame": true,
+        "currentFrame": 63,
+        "endFrame": 63,
+        "easing": "none"
+      },
+      {
+        "x": -55,
+        "y": 45,
+        "keyFrame": true,
+        "currentFrame": 64,
+        "endFrame": 64,
+        "easing": "none"
+      },
+      {
+        "x": -52,
+        "y": 42,
+        "keyFrame": true,
+        "currentFrame": 65,
+        "endFrame": 65,
+        "easing": "none"
+      },
+      {
+        "x": -48,
+        "y": 39,
+        "keyFrame": true,
+        "currentFrame": 66,
+        "endFrame": 66,
+        "easing": "none"
+      },
+      {
+        "x": -44,
+        "y": 36,
+        "keyFrame": true,
+        "currentFrame": 67,
+        "endFrame": 67,
+        "easing": "none"
+      },
+      {
+        "x": -40,
+        "y": 33,
+        "keyFrame": true,
+        "currentFrame": 68,
+        "endFrame": 68,
+        "easing": "none"
+      },
+      {
+        "x": -37,
+        "y": 30,
+        "keyFrame": true,
+        "currentFrame": 69,
+        "endFrame": 69,
+        "easing": "none"
+      },
+      {
+        "x": -33,
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 70,
+        "endFrame": 70,
+        "easing": "none"
+      },
+      {
+        "x": -29,
+        "y": 23,
+        "keyFrame": true,
+        "currentFrame": 71,
+        "endFrame": 71,
+        "easing": "none"
+      },
+      {
+        "x": -26,
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 72,
+        "endFrame": 72,
+        "easing": "none"
+      },
+      {
+        "x": -22,
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 73,
+        "endFrame": 73,
+        "easing": "none"
+      },
+      {
+        "x": -18,
+        "y": 14,
+        "keyFrame": true,
+        "currentFrame": 74,
+        "endFrame": 74,
+        "easing": "none"
+      },
+      {
+        "x": -14,
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 75,
+        "endFrame": 75,
+        "easing": "none"
+      },
+      {
+        "x": -11,
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 76,
+        "endFrame": 76,
+        "easing": "none"
+      },
+      {
+        "x": -7,
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 77,
+        "endFrame": 77,
+        "easing": "none"
+      },
+      {
+        "x": -3,
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 78,
+        "endFrame": 78,
+        "easing": "none"
+      }
+    ],
+    "tween1_Blackinner": [
+      {
+        "chilName": "tween1",
+        "parentTemplate": "Blackinner",
+        "x": -3,
+        "y": -109,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -5,
+        "y": -93,
+        "scaleY": 0.944542689605172,
+        "skewX": 0.6283021965312733,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": -8,
+        "y": -78,
+        "scaleY": 0.8891267398376502,
+        "skewX": 1.2566435856010065,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": -11,
+        "y": -63,
+        "rotation": 1.8849590356401298,
+        "scaleX": -0.9999847412109375,
+        "scaleY": 0.8336973982177065,
+        "skewX": 1.8849590356401298,
+        "skewY": 1.8849590356401298,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": -14,
+        "y": -47,
+        "rotation": 2.51329079152606,
+        "scaleY": 0.7782667746192861,
+        "skewX": 2.51329079152606,
+        "skewY": 2.51329079152606,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -16,
+        "y": -32,
+        "rotation": -3.141592653589793,
+        "scaleY": 0.7228546142578125,
+        "skewX": -3.141592653589793,
+        "skewY": -3.141592653589793,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -14,
+        "y": -47,
+        "rotation": 2.513306653582396,
+        "scaleY": 0.7782578060317834,
+        "skewX": 2.513306653582396,
+        "skewY": 2.513306653582396,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": -11,
+        "y": -63,
+        "rotation": 1.884947284487507,
+        "scaleY": 0.8336781710456301,
+        "skewX": 1.884947284487507,
+        "skewY": 1.884947284487507,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": -8,
+        "y": -78,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 0.8891122278486215,
+        "skewX": 1.2566382824117042,
+        "skewY": 0,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": -5,
+        "y": -93,
+        "scaleY": 0.944542689605172,
+        "skewX": 0.6283021965312733,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      }
+    ],
+    "tween7_Blackinner": [
+      {
+        "chilName": "tween7",
+        "parentTemplate": "Blackinner",
+        "x": 17,
+        "y": 66,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 1.05,
+        "scaleX": 1,
+        "scaleY": 0.74,
+        "skewX": 1.0472020333970922,
+        "skewY": 1.0472023063853988,
+        "easing": "none"
+      },
+      {
+        "x": 26,
+        "y": 71,
+        "rotation": 0.8377577658875475,
+        "scaleX": 0.9998824045302125,
+        "scaleY": 0.7881168326333573,
+        "skewX": 0.8377739949860283,
+        "skewY": 0.8377577658875475,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": 35,
+        "y": 77,
+        "rotation": 0.6283228255074118,
+        "scaleX": 0.9999137619811047,
+        "scaleY": 0.8411093571140755,
+        "skewX": 0.6283307998154551,
+        "skewY": 0.6283228255074118,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": 43,
+        "y": 82,
+        "rotation": 0.4188502959493876,
+        "scaleX": 0.9999184784778259,
+        "scaleY": 0.8940473732977832,
+        "skewX": 0.4188672357736312,
+        "skewY": 0.4188502959493876,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": 52,
+        "y": 88,
+        "rotation": 0.2094115143496931,
+        "scaleX": 0.9999335051990988,
+        "scaleY": 0.9469926879637043,
+        "skewX": 0.20943228182742088,
+        "skewY": 0.2094115143496931,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": 61,
+        "y": 93,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": 52,
+        "y": 88,
+        "rotation": 0.2094200959480888,
+        "scaleX": 0.9999665281721479,
+        "scaleY": 0.9470225387266445,
+        "skewX": 0.2094255821500268,
+        "skewY": 0.2094200959480888,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": 44,
+        "y": 82,
+        "rotation": 0.4188657643220997,
+        "scaleX": 0.9999587699653252,
+        "scaleY": 0.8940752527250935,
+        "skewX": 0.418853352950351,
+        "skewY": 0.4188657643220997,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": 35,
+        "y": 77,
+        "rotation": 0.6283172319060538,
+        "scaleX": 0.9999474201032353,
+        "scaleY": 0.8411217016715188,
+        "skewX": 0.6283201366229376,
+        "skewY": 0.6283172319060538,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": 26,
+        "y": 71,
+        "rotation": 0.8377668474212783,
+        "scaleX": 0.9999152936719956,
+        "scaleY": 0.7881485922687544,
+        "skewX": 0.8377581739031653,
+        "skewY": 0.8377668474212783,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      }
+    ],
+    "tween5_Blackinner": [
+      {
+        "chilName": "tween5",
+        "parentTemplate": "Blackinner",
+        "x": -27,
+        "y": 90,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "y": 85,
+        "rotation": 0.05234647544947127,
+        "scaleX": 0.9999964680693139,
+        "scaleY": 0.924025311404634,
+        "skewX": 0.05233830691731997,
+        "skewY": 0.05234647544947127,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": -28,
+        "y": 79,
+        "rotation": 0.10468525156603747,
+        "scaleX": 0.9999812318113539,
+        "scaleY": 0.8480728012843708,
+        "skewX": 0.1046904701368144,
+        "skewY": 0.10468525156603747,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": -29,
+        "y": 74,
+        "rotation": 0.15703580453885066,
+        "scaleX": 0.9999753998593459,
+        "scaleY": 0.7721055644484681,
+        "skewX": 0.1570457168253079,
+        "skewY": 0.15703580453885066,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": -30,
+        "y": 68,
+        "rotation": 0.20940516999164263,
+        "scaleX": 0.9999633560926678,
+        "scaleY": 0.6961581363211695,
+        "skewX": 0.20938030099131863,
+        "skewY": 0.20940516999164263,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -31,
+        "y": 63,
+        "rotation": 0.2617632491795337,
+        "scaleX": 0.9999600671174813,
+        "scaleY": 0.6202154322017617,
+        "skewX": 0.2617466031522405,
+        "skewY": 0.2617632491795337,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -30,
+        "y": 68,
+        "rotation": 0.20942644073159353,
+        "scaleX": 0.9999366773732744,
+        "scaleY": 0.696131457171537,
+        "skewX": 0.20941085374012647,
+        "skewY": 0.20942644073159353,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": -29,
+        "y": 74,
+        "rotation": 0.15707072102884304,
+        "scaleX": 0.9999500310835344,
+        "scaleY": 0.7720904934431592,
+        "skewX": 0.15704880777044927,
+        "skewY": 0.15707072102884304,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": -28,
+        "y": 79,
+        "rotation": 0.10471879252458526,
+        "scaleX": 0.9999540707724859,
+        "scaleY": 0.8480592207370202,
+        "skewX": 0.1047102444396918,
+        "skewY": 0.10471879252458526,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": -27,
+        "y": 85,
+        "rotation": 0.05237775014188764,
+        "scaleX": 0.9999828274284287,
+        "scaleY": 0.9240108719037681,
+        "skewX": 0.05235566185302357,
+        "skewY": 0.05237775014188764,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      }
+    ],
+    "tween9_Blackinner": [
+      {
+        "chilName": "tween9",
+        "parentTemplate": "Blackinner",
+        "x": 0,
+        "y": -39,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 8,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "tween3_Blackinner": [
+      {
+        "chilName": "tween3",
+        "parentTemplate": "Blackinner",
+        "x": -2,
+        "y": -41,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -1,
+        "y": -34,
+        "scaleY": 0.9777527767500327,
+        "skewX": 0.6282971785405664,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "y": -27,
+        "scaleY": 0.9555192526652987,
+        "skewX": 1.2566358073846193,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "y": -20,
+        "rotation": 1.884957090318688,
+        "scaleX": -1,
+        "scaleY": 0.9332983218407426,
+        "skewX": 1.884957090318688,
+        "skewY": 1.884957090318688,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "y": -13,
+        "rotation": 2.513282751453498,
+        "scaleY": 0.9110700888780041,
+        "skewX": 2.513282751453498,
+        "skewY": 2.513282751453498,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -2,
+        "y": -6,
+        "rotation": -3.141592653589793,
+        "scaleY": 0.88885498046875,
+        "skewX": -3.141592653589793,
+        "skewY": -3.141592653589793,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -1,
+        "y": -13,
+        "rotation": 2.513300007131383,
+        "scaleY": 0.9110398067472617,
+        "skewX": 2.513300007131383,
+        "skewY": 2.513300007131383,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "y": -20,
+        "rotation": 1.884946593226355,
+        "scaleY": 0.9332790946815813,
+        "skewX": 1.884946593226355,
+        "skewY": 1.884946593226355,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "y": -27,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 0.9555000255073333,
+        "skewX": 1.2566460603634382,
+        "skewY": 0,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "y": -34,
+        "scaleY": 0.9777191185160992,
+        "skewX": 0.6283028984287337,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      }
+    ],
+    "tween21_Duck3": [
+      {
+        "chilName": "tween21",
+        "parentTemplate": "Duck3",
+        "x": 0,
+        "y": 0,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 3,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 18,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 19,
+        "endFrame": 19,
+        "easing": "none"
+      },
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 20,
+        "endFrame": 23,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 24,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 31,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 32,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 37,
+        "easing": "none"
+      },
+      {}
+    ],
+    "tween17_Duck4": [
+      {
+        "chilName": "tween17",
+        "parentTemplate": "Duck4",
+        "x": 0,
+        "y": 0,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 1,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 12,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 13,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 18,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 19,
+        "endFrame": 22,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 23,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 37,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 38,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 40,
+        "easing": "none"
+      },
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 41,
+        "endFrame": 42,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 43,
+        "endFrame": 44,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 45,
+        "endFrame": 47,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 48,
+        "endFrame": 49,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 50,
+        "endFrame": 52,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 53,
+        "endFrame": 54,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 55,
+        "endFrame": 58,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 59,
+        "endFrame": 62,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 63,
+        "endFrame": 67,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 68,
+        "endFrame": 77,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "duck5inner_Duck": [
+      {
+        "chilName": "duck5inner",
+        "parentTemplate": "Duck",
+        "x": 0,
+        "y": 0,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 2,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 13,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 14,
+        "endFrame": 17,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 18,
+        "endFrame": 21,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 38,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 39,
+        "endFrame": 41,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 42,
+        "endFrame": 43,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 44,
+        "endFrame": 45,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 46,
+        "endFrame": 48,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 49,
+        "endFrame": 51,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 52,
+        "endFrame": 54,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 55,
+        "endFrame": 57,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 58,
+        "endFrame": 61,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 62,
+        "endFrame": 67,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 68,
+        "endFrame": 97,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "duck5body_Duck5inner": [
+      {
+        "chilName": "duck5body",
+        "parentTemplate": "Duck5inner",
+        "x": -81,
+        "y": -81,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 35,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "duck5face_Duck5inner": [
+      {
+        "chilName": "duck5face",
+        "parentTemplate": "Duck5inner",
+        "x": -22,
+        "y": -72,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 21,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "x": -21,
+        "y": -71,
+        "rotation": 0.03272114154197657,
+        "scaleX": 0.9999859648703081,
+        "scaleY": 0.9999859648703081,
+        "skewX": 0.03272114154197657,
+        "skewY": 0.03272114154197657,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 22,
+        "easing": "none"
+      },
+      {
+        "x": -20,
+        "rotation": 0.06543135079430214,
+        "scaleX": 0.9999883530448868,
+        "scaleY": 0.9999883530448868,
+        "skewX": 0.06543135079430214,
+        "skewY": 0.06543135079430214,
+        "keyFrame": true,
+        "currentFrame": 23,
+        "endFrame": 23,
+        "easing": "none"
+      },
+      {
+        "x": -19,
+        "rotation": 0.09813664162191406,
+        "scaleX": 0.999974377357898,
+        "scaleY": 0.999974377357898,
+        "skewX": 0.09813664162191406,
+        "skewY": 0.09813664162191406,
+        "keyFrame": true,
+        "currentFrame": 24,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {
+        "x": -18,
+        "rotation": 0.1308695973566324,
+        "scaleX": 0.9999755622627019,
+        "scaleY": 0.9999755622627019,
+        "skewX": 0.1308695973566324,
+        "skewY": 0.1308695973566324,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 25,
+        "easing": "none"
+      },
+      {
+        "x": -17,
+        "rotation": 0.1635908313639708,
+        "scaleX": 0.9999687901950067,
+        "scaleY": 0.9999687901950067,
+        "skewX": 0.1635908313639708,
+        "skewY": 0.1635908313639708,
+        "keyFrame": true,
+        "currentFrame": 26,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {
+        "rotation": 0.19630028314682954,
+        "scaleX": 0.9999786263841581,
+        "scaleY": 0.9999786263841581,
+        "skewX": 0.19630028314682954,
+        "skewY": 0.19630028314682954,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 27,
+        "easing": "none"
+      },
+      {
+        "x": -16,
+        "rotation": 0.2290268615691658,
+        "scaleX": 0.9999575391710397,
+        "scaleY": 0.9999575391710397,
+        "skewX": 0.2290268615691658,
+        "skewY": 0.2290268615691658,
+        "keyFrame": true,
+        "currentFrame": 28,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {
+        "x": -15,
+        "rotation": 0.2617632491795337,
+        "scaleX": 0.9999600671174813,
+        "scaleY": 0.9999600671174813,
+        "skewX": 0.2617632491795337,
+        "skewY": 0.2617632491795337,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 29,
+        "easing": "none"
+      },
+      {
+        "x": -16,
+        "rotation": 0.2290486518176702,
+        "scaleX": 0.999931282913196,
+        "scaleY": 0.999931282913196,
+        "skewX": 0.2290486518176702,
+        "skewY": 0.2290486518176702,
+        "keyFrame": true,
+        "currentFrame": 30,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {
+        "rotation": 0.19632120210993712,
+        "scaleX": 0.9999516712231993,
+        "scaleY": 0.9999516712231993,
+        "skewX": 0.19632120210993712,
+        "skewY": 0.19632120210993712,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 31,
+        "easing": "none"
+      },
+      {
+        "x": -17,
+        "rotation": 0.16362591363177897,
+        "scaleX": 0.9999436508354845,
+        "scaleY": 0.9999436508354845,
+        "skewX": 0.16362591363177897,
+        "skewY": 0.16362591363177897,
+        "keyFrame": true,
+        "currentFrame": 32,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {
+        "x": -18,
+        "rotation": 0.13090383814157044,
+        "scaleX": 0.9999492886656538,
+        "scaleY": 0.9999492886656538,
+        "skewX": 0.13090383814157044,
+        "skewY": 0.13090383814157044,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 33,
+        "easing": "none"
+      },
+      {
+        "x": -19,
+        "rotation": 0.09817000421964465,
+        "scaleX": 0.9999469972604641,
+        "scaleY": 0.9999469972604641,
+        "skewX": 0.09817000421964465,
+        "skewY": 0.09817000421964465,
+        "keyFrame": true,
+        "currentFrame": 34,
+        "endFrame": 34,
+        "easing": "none"
+      },
+      {
+        "x": -20,
+        "rotation": 0.06543234851204202,
+        "scaleX": 0.9999731269081046,
+        "scaleY": 0.9999731269081046,
+        "skewX": 0.06543234851204202,
+        "skewY": 0.06543234851204202,
+        "keyFrame": true,
+        "currentFrame": 35,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {
+        "x": -21,
+        "rotation": 0.0327216407525026,
+        "scaleX": 0.9999707142492289,
+        "scaleY": 0.9999707142492289,
+        "skewX": 0.0327216407525026,
+        "skewY": 0.0327216407525026,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 36,
+        "easing": "none"
+      }
+    ]
+  },
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Templateeiyt",
+        "template": true,
+        "guide": false,
+        "instanceName": "instance_8dzp",
+        "filters": {},
+        "portrait": {
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "landscape": {
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "Templateeiyt": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Bg",
+          "template": true,
+          "guide": false,
+          "instanceName": "bg",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 907,
+            "pivotY": 0,
+            "height": 512,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 907,
+            "pivotY": 0,
+            "height": 512,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck1",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 274,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 257
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 274,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 257
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Goose",
+          "template": true,
+          "guide": false,
+          "instanceName": "duckMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": 289,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 392
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": 289,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 392
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck2",
+          "template": true,
+          "guide": false,
+          "instanceName": "quack2MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 355,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 189
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 355,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 189
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Black",
+          "template": true,
+          "guide": false,
+          "instanceName": "meMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 275.05,
+            "rotation": 0,
+            "y": 377,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 768
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 275.05,
+            "rotation": 0,
+            "y": 377,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 768
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck3",
+          "template": true,
+          "guide": false,
+          "instanceName": "quack1MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": 388,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 135
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": 388,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 135
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck4",
+          "template": true,
+          "guide": false,
+          "instanceName": "quack3MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": 449,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 177
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": 449,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 177
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck",
+          "template": true,
+          "guide": false,
+          "instanceName": "quack4MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 450,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 319
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 0.89,
+            "scaleY": 0.76,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 450,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 319
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "asset",
+      "name": "Templateeiyt"
+    },
+    "Bg": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BgMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "bgMC1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 907,
+            "pivotY": 0,
+            "height": 512,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 907,
+            "pivotY": 0,
+            "height": 512,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Bg"
+    },
+    "BgMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BgMC1_IMG",
+          "width": 907,
+          "height": 512,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/BgMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BgMC1"
+    },
+    "Duck1": {
+      "children": [
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck1inner",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck1inner",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 3,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -3
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 3,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -3
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "animation",
+      "name": "Duck1"
+    },
+    "Duck1inner": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween11",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween11",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 35,
+            "pivotY": 0,
+            "height": 16,
+            "rotation": 0,
+            "y": -5,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 14
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 35,
+            "pivotY": 0,
+            "height": 16,
+            "rotation": 0,
+            "y": -5,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 14
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween13",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween13",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 1
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 1
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Duck1inner"
+    },
+    "Tween11": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck1mouthMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck1mouthMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 35,
+            "pivotY": 0,
+            "height": 16,
+            "rotation": 0,
+            "y": -8,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -18
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 35,
+            "pivotY": 0,
+            "height": 16,
+            "rotation": 0,
+            "y": -8,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -18
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween11"
+    },
+    "Duck1mouthMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck1mouthMC_IMG",
+          "width": 35,
+          "height": 17,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck1mouthMC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck1mouthMC"
+    },
+    "Tween13": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck1headMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck1headMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": -34,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -43
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 86,
+            "pivotY": 0,
+            "height": 68,
+            "rotation": 0,
+            "y": -34,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -43
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween13"
+    },
+    "Duck1headMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck1headMC_IMG",
+          "width": 86,
+          "height": 68,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck1headMC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck1headMC"
+    },
+    "Goose": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween23",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween23",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Goose"
+    },
+    "Tween23": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BigMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "bigMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": -177,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -213
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 425,
+            "pivotY": 0,
+            "height": 354,
+            "rotation": 0,
+            "y": -177,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -213
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween23"
+    },
+    "BigMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BigMC_IMG",
+          "width": 425,
+          "height": 354,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/BigMC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BigMC"
+    },
+    "Duck2": {
+      "children": [
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck2inner",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck2inner",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "animation",
+      "name": "Duck2"
+    },
+    "Duck2inner": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck2mouthMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck2mouthMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": -73,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -66
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": -73,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -66
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Duck2inner"
+    },
+    "Duck2mouthMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck2mouthMC_IMG",
+          "width": 45,
+          "height": 19,
+          "x": 54.5,
+          "y": 21.45,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck2mouthMC.webp",
+          "filters": {}
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck2body",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck2body",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Duck2mouthMC"
+    },
+    "Duck2body": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck2bodyMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck2bodyMC1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 145,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Duck2body"
+    },
+    "Duck2bodyMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck2bodyMC1_IMG",
+          "width": 131,
+          "height": 145,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck2bodyMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck2bodyMC1"
+    },
+    "Black": {
+      "children": [
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Blackinner",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackinner",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 275.05,
+            "rotation": 0,
+            "y": -1,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 275.05,
+            "rotation": 0,
+            "y": -1,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "animation",
+      "name": "Black"
+    },
+    "Blackinner": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween1",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 46,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -109,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -3
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 46,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -109,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -3
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween7",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween7",
+          "filters": {},
+          "portrait": {
+            "skewY": 1.0472023063853988,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 0.74,
+            "isAnchored": false,
+            "width": 89,
+            "pivotY": 0,
+            "height": 102,
+            "rotation": 1.05,
+            "y": 66,
+            "alpha": 1,
+            "skewX": 1.0472020333970922,
+            "x": 17
+          },
+          "landscape": {
+            "skewY": 1.0472023063853988,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 0.74,
+            "isAnchored": false,
+            "width": 89,
+            "pivotY": 0,
+            "height": 102,
+            "rotation": 1.05,
+            "y": 66,
+            "alpha": 1,
+            "skewX": 1.0472020333970922,
+            "x": 17
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween5",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween5",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 90,
+            "pivotY": 0,
+            "height": 79,
+            "rotation": 0,
+            "y": 90,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -27
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 90,
+            "pivotY": 0,
+            "height": 79,
+            "rotation": 0,
+            "y": 90,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -27
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween9",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween9",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 196,
+            "rotation": 0,
+            "y": -39,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 196,
+            "rotation": 0,
+            "y": -39,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween3",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween3",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -41,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -2
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -41,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -2
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Blackinner"
+    },
+    "Tween1": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Blackwing1MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackwing1MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 46,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -36,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -23
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 46,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -36,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -23
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween1"
+    },
+    "Blackwing1MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Blackwing1MC_IMG",
+          "width": 46,
+          "height": 72,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Blackwing1MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Blackwing1MC"
+    },
+    "Tween7": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Blackleg1MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackleg1MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 89,
+            "pivotY": 0,
+            "height": 102,
+            "rotation": 0,
+            "y": -51,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -45
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 89,
+            "pivotY": 0,
+            "height": 102,
+            "rotation": 0,
+            "y": -51,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -45
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween7"
+    },
+    "Blackleg1MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Blackleg1MC_IMG",
+          "width": 89,
+          "height": 102,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Blackleg1MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Blackleg1MC"
+    },
+    "Tween5": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Blackleg2MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackleg2MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 90,
+            "pivotY": 0,
+            "height": 79,
+            "rotation": 0,
+            "y": -40,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -45
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 90,
+            "pivotY": 0,
+            "height": 79,
+            "rotation": 0,
+            "y": -40,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -45
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween5"
+    },
+    "Blackleg2MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Blackleg2MC_IMG",
+          "width": 90,
+          "height": 79,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Blackleg2MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Blackleg2MC"
+    },
+    "Tween9": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BlackbodyMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackbodyMC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 196,
+            "rotation": 0,
+            "y": -98,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -116
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 231,
+            "pivotY": 0,
+            "height": 196,
+            "rotation": 0,
+            "y": -98,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -116
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween9"
+    },
+    "BlackbodyMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BlackbodyMC_IMG",
+          "width": 231,
+          "height": 196,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/BlackbodyMC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BlackbodyMC"
+    },
+    "Tween3": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Blackwing2MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "blackwing2MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -36,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -66
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 131,
+            "pivotY": 0,
+            "height": 72,
+            "rotation": 0,
+            "y": -36,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -66
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween3"
+    },
+    "Blackwing2MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Blackwing2MC_IMG",
+          "width": 131,
+          "height": 72,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Blackwing2MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Blackwing2MC"
+    },
+    "Duck3": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween21",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween21",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Duck3"
+    },
+    "Tween21": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck3MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck3MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": -79,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -79
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 157,
+            "pivotY": 0,
+            "height": 157,
+            "rotation": 0,
+            "y": -79,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -79
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween21"
+    },
+    "Duck3MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck3MC_IMG",
+          "width": 157,
+          "height": 157,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck3MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck3MC"
+    },
+    "Duck4": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween17",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween17",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Duck4"
+    },
+    "Tween17": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck4MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck4MC",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": -83,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -89
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 178,
+            "pivotY": 0,
+            "height": 166,
+            "rotation": 0,
+            "y": -83,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -89
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween17"
+    },
+    "Duck4MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck4MC_IMG",
+          "width": 178,
+          "height": 166,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck4MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck4MC"
+    },
+    "Duck": {
+      "children": [
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Duck5inner",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck5inner",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "animation",
+      "name": "Duck"
+    },
+    "Duck5inner": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck5body",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck5body",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": -81,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -81
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": -81,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -81
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck5face",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck5face",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 44,
+            "pivotY": 0,
+            "height": 26,
+            "rotation": 0,
+            "y": -72,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -22
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 44,
+            "pivotY": 0,
+            "height": 26,
+            "rotation": 0,
+            "y": -72,
+            "alpha": 1,
+            "skewX": 0,
+            "x": -22
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Duck5inner"
+    },
+    "Duck5body": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck5bodyMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck5bodyMC1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 162,
+            "pivotY": 0,
+            "height": 162,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Duck5body"
+    },
+    "Duck5bodyMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck5bodyMC1_IMG",
+          "width": 162,
+          "height": 163,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck5bodyMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck5bodyMC1"
+    },
+    "Duck5face": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Duck5faceMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "duck5faceMC1",
+          "filters": {},
+          "portrait": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 44,
+            "pivotY": 0,
+            "height": 26,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          },
+          "landscape": {
+            "skewY": 0,
+            "pivotX": 0,
+            "visible": true,
+            "scaleX": 1,
+            "scaleY": 1,
+            "isAnchored": false,
+            "width": 44,
+            "pivotY": 0,
+            "height": 26,
+            "rotation": 0,
+            "y": 0,
+            "alpha": 1,
+            "skewX": 0,
+            "x": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Duck5face"
+    },
+    "Duck5faceMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Duck5faceMC1_IMG",
+          "width": 44,
+          "height": 27,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Duck5faceMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Duck5faceMC1"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

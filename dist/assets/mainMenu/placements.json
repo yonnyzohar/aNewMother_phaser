@@ -1,0 +1,995 @@
+{
+  "resolution": {
+    "x": 1024,
+    "y": 740
+  },
+  "animTracks": {},
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Instance4",
+        "template": true,
+        "guide": false,
+        "instanceName": "instance4",
+        "filters": {},
+        "portrait": {
+          "height": 741,
+          "pivotY": 0,
+          "isAnchored": false,
+          "x": 0,
+          "scaleX": 0.72,
+          "skewY": 0,
+          "y": 241,
+          "visible": true,
+          "rotation": 0,
+          "scaleY": 0.72,
+          "alpha": 1,
+          "skewX": 0,
+          "width": 1025,
+          "pivotX": 0
+        },
+        "landscape": {
+          "height": 741,
+          "pivotY": 0,
+          "isAnchored": false,
+          "x": 0,
+          "scaleX": 1,
+          "skewY": 0,
+          "y": 0,
+          "visible": true,
+          "rotation": 0,
+          "scaleY": 1,
+          "alpha": 1,
+          "skewX": 0,
+          "width": 1025,
+          "pivotX": 0
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "Instance4": {
+      "children": [
+        {
+          "type": "fullScreen",
+          "editorOnly": false,
+          "name": "StartBG",
+          "template": true,
+          "guide": false,
+          "instanceName": "startBG",
+          "filters": {},
+          "portrait": {
+            "height": 741,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 0,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 0,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 1025,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 741,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 0,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 0,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 1025,
+            "pivotX": 0
+          },
+          "attrs": {
+            "fitToScreen": true
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "FranchiseTitleTXT",
+          "template": true,
+          "guide": false,
+          "instanceName": "franchiseTitleTXT",
+          "filters": {},
+          "portrait": {
+            "height": 217.4,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 54,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 42,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 506.2,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 217.4,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 54,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 42,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 506.2,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "StoryNameTXT",
+          "template": true,
+          "guide": false,
+          "instanceName": "storyNameTXT",
+          "filters": {},
+          "portrait": {
+            "height": 210,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 447,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 422,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 403.75,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 210,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 447,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 422,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 403.75,
+            "pivotX": 0
+          }
+        },
+        {
+          "portrait": {
+            "height": 324.25,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 808,
+            "scaleX": 1.02,
+            "skewY": 0,
+            "y": 208,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1.02,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 324.25,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 324.25,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 808.6,
+            "scaleX": 1.02,
+            "skewY": 0,
+            "y": 208.7,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1.02,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 324.25,
+            "pivotX": 0
+          },
+          "type": "btn",
+          "name": "PlayBookBTN",
+          "guide": false,
+          "template": true,
+          "instanceName": "playBookBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "portrait": {
+            "height": 354.3,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 244,
+            "scaleX": 1.03,
+            "skewY": 0,
+            "y": 510,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1.03,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 331.45,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 354.3,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": 244.6,
+            "scaleX": 1.03,
+            "skewY": 0,
+            "y": 510.45,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1.03,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 331.45,
+            "pivotX": 0
+          },
+          "type": "btn",
+          "name": "AboutBTN",
+          "guide": false,
+          "template": true,
+          "instanceName": "aboutBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "portrait": {
+            "x": 9,
+            "y": 682,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 9.95,
+            "y": 682.22,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "type": "btn",
+          "name": "Templategj8j",
+          "guide": false,
+          "template": true,
+          "instanceName": "langBTN",
+          "editorOnly": false,
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance4"
+    },
+    "StartBG": {
+      "children": [
+        {
+          "type": "img",
+          "name": "StartBG_IMG",
+          "width": 1025,
+          "height": 741,
+          "x": -0.5,
+          "y": -0.5,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/startBG.webp",
+          "filters": {}
+        }
+      ],
+      "type": "fullScreen",
+      "name": "StartBG"
+    },
+    "FranchiseTitleTXT": {
+      "children": [
+        {
+          "text": "Granny\rTales\r",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 337,
+          "height": 342,
+          "alpha": 1,
+          "size": 96,
+          "align": "left",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": true,
+          "wordWrapWidth": 506,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "Bold",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#fff278"
+        }
+      ],
+      "type": "asset",
+      "name": "FranchiseTitleTXT"
+    },
+    "StoryNameTXT": {
+      "children": [
+        {
+          "text": "The search for a new mother\r",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 516,
+          "height": 282,
+          "alpha": 1,
+          "size": 80,
+          "align": "left",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": true,
+          "wordWrapWidth": 573,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "StoryNameTXT"
+    },
+    "PlayBookBTN": {
+      "type": "btn",
+      "name": "PlayBookBTN",
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatefrj2",
+          "template": true,
+          "guide": false,
+          "instanceName": "downState",
+          "filters": {},
+          "portrait": {
+            "x": -151,
+            "y": -151,
+            "rotation": 0,
+            "scaleX": 0.93,
+            "scaleY": 0.93,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": -151,
+            "y": -151,
+            "rotation": 0,
+            "scaleX": 0.93,
+            "scaleY": 0.93,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatefrj2",
+          "template": true,
+          "guide": false,
+          "instanceName": "upState",
+          "filters": {},
+          "portrait": {
+            "x": -163,
+            "y": -163,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": -163,
+            "y": -163,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "PlayTXT",
+          "template": true,
+          "guide": false,
+          "instanceName": "labelContainer",
+          "filters": {},
+          "portrait": {
+            "height": 49.15,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": -4,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 79,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 245.65,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 49.15,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": -4,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 79,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 245.65,
+            "pivotX": 0
+          }
+        }
+      ]
+    },
+    "Templatefrj2": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Templatefrj2_IMG",
+          "width": 325,
+          "height": 325,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/playBookBTN.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Templatefrj2"
+    },
+    "PlayTXT": {
+      "children": [
+        {
+          "text": "Play book",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 220,
+          "height": 60,
+          "alpha": 1,
+          "size": 50,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": false,
+          "wordWrapWidth": 100,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0.5,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#333333"
+        }
+      ],
+      "type": "asset",
+      "name": "PlayTXT"
+    },
+    "AboutBTN": {
+      "type": "btn",
+      "name": "AboutBTN",
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templategpa6",
+          "template": true,
+          "guide": false,
+          "instanceName": "downState",
+          "filters": {},
+          "portrait": {
+            "x": -151,
+            "y": -161,
+            "rotation": 0,
+            "scaleX": 0.91,
+            "scaleY": 0.91,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": -151,
+            "y": -161,
+            "rotation": 0,
+            "scaleX": 0.91,
+            "scaleY": 0.91,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templategpa6",
+          "template": true,
+          "guide": false,
+          "instanceName": "upState",
+          "filters": {},
+          "portrait": {
+            "x": -166,
+            "y": -178,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": -166,
+            "y": -178,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "AboutTXT",
+          "template": true,
+          "guide": false,
+          "instanceName": "labelContainer",
+          "filters": {},
+          "portrait": {
+            "height": 49.15,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": -2,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 128,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 245.65,
+            "pivotX": 0
+          },
+          "landscape": {
+            "height": 49.15,
+            "pivotY": 0,
+            "isAnchored": false,
+            "x": -2,
+            "scaleX": 1,
+            "skewY": 0,
+            "y": 128,
+            "visible": true,
+            "rotation": 0,
+            "scaleY": 1,
+            "alpha": 1,
+            "skewX": 0,
+            "width": 245.65,
+            "pivotX": 0
+          }
+        }
+      ]
+    },
+    "Templategpa6": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Templategpa6_IMG",
+          "width": 332,
+          "height": 355,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/aboutBTN.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Templategpa6"
+    },
+    "AboutTXT": {
+      "children": [
+        {
+          "text": "About",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 131,
+          "height": 60,
+          "alpha": 1,
+          "size": 50,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": false,
+          "wordWrapWidth": 100,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0.5,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#333333"
+        }
+      ],
+      "type": "asset",
+      "name": "AboutTXT"
+    },
+    "Templategj8j": {
+      "type": "btn",
+      "name": "Templategj8j",
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatexjq3",
+          "template": true,
+          "guide": false,
+          "instanceName": "upState",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.48,
+            "scaleY": 0.48,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.48,
+            "scaleY": 0.48,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatexjq3",
+          "template": true,
+          "guide": false,
+          "instanceName": "downState",
+          "filters": {},
+          "portrait": {
+            "x": 5,
+            "y": 2,
+            "rotation": 0,
+            "scaleX": 0.43,
+            "scaleY": 0.43,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 5,
+            "y": 2,
+            "rotation": 0,
+            "scaleX": 0.43,
+            "scaleY": 0.43,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templateijv9",
+          "template": true,
+          "guide": false,
+          "instanceName": "labelContainer",
+          "filters": {},
+          "portrait": {
+            "x": 51,
+            "y": 25,
+            "rotation": 0,
+            "scaleX": 0.53,
+            "scaleY": 0.53,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 51,
+            "y": 25,
+            "rotation": 0,
+            "scaleX": 0.53,
+            "scaleY": 0.53,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ]
+    },
+    "Templatexjq3": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Templatexjq3_IMG",
+          "width": 216,
+          "height": 104,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Screenshot 2026-03-22 at 20.44.30.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Templatexjq3"
+    },
+    "Templateijv9": {
+      "children": [
+        {
+          "text": "New Textfield",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 148,
+          "height": 35,
+          "alpha": 1,
+          "size": 30,
+          "align": "center",
+          "fontName": "Apple LiGothic",
+          "z": 1,
+          "stroke": "#042895",
+          "strokeThickness": 0,
+          "wordWrap": false,
+          "wordWrapWidth": 100,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0.5,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "miter",
+          "fontWeight": "bolder",
+          "dropShadow": false,
+          "dropShadowAngle": 1.43,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#1a1919",
+          "dropShadowDistance": 9,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "Templateijv9"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

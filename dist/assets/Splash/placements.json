@@ -1,0 +1,164 @@
+{
+  "resolution": {
+    "x": 1024,
+    "y": 740
+  },
+  "animTracks": {},
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Instance4",
+        "template": true,
+        "guide": false,
+        "instanceName": "instance4",
+        "filters": {},
+        "portrait": {
+          "height": 657.55,
+          "pivotY": 0,
+          "x": -5,
+          "rotation": 0,
+          "alpha": 1,
+          "scaleX": 0.81,
+          "skewX": 0,
+          "y": 231,
+          "visible": true,
+          "scaleY": 0.81,
+          "skewY": 0,
+          "pivotX": 0,
+          "isAnchored": false,
+          "width": 950.8
+        },
+        "landscape": {
+          "height": 657.55,
+          "pivotY": 0,
+          "x": -5,
+          "rotation": 0,
+          "alpha": 1,
+          "scaleX": 1.11,
+          "skewX": 0,
+          "y": 1,
+          "visible": true,
+          "scaleY": 1.12,
+          "skewY": 0,
+          "pivotX": 0,
+          "isAnchored": false,
+          "width": 950.8
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "Instance4": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance4_IMG",
+          "width": 923,
+          "height": 658,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance4.webp",
+          "filters": {}
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance6",
+          "template": true,
+          "guide": false,
+          "instanceName": "instance6",
+          "filters": {},
+          "portrait": {
+            "height": 59.35,
+            "pivotY": 0,
+            "x": 21,
+            "rotation": 0,
+            "alpha": 1,
+            "scaleX": 1,
+            "skewX": 0,
+            "y": 566,
+            "visible": true,
+            "scaleY": 1,
+            "skewY": 0,
+            "pivotX": 0,
+            "isAnchored": false,
+            "width": 950.8
+          },
+          "landscape": {
+            "height": 59.35,
+            "pivotY": 0,
+            "x": 21,
+            "rotation": 0,
+            "alpha": 1,
+            "scaleX": 1,
+            "skewX": 0,
+            "y": 566,
+            "visible": true,
+            "scaleY": 1,
+            "skewY": 0,
+            "pivotX": 0,
+            "isAnchored": false,
+            "width": 950.8
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Instance4"
+    },
+    "Instance6": {
+      "children": [
+        {
+          "text": "Granny Tales\r",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 314,
+          "height": 120,
+          "alpha": 1,
+          "size": 50,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": true,
+          "wordWrapWidth": 950,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "Bold",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "Instance6"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

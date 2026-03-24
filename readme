@@ -1,0 +1,10 @@
+##zImporter Example project
+
+See here for zImporter:
+https://github.com/yonnyzohar/zImporter_PIXI
+
+To run the code:
+
+npm i
+npx webpack
+open dist/index.html from a local server

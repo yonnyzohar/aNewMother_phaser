@@ -1,0 +1,1811 @@
+{
+  "resolution": {
+    "x": 1024,
+    "y": 740
+  },
+  "animTracks": {
+    "instance9_Twister": [
+      {
+        "chilName": "instance9",
+        "parentTemplate": "Twister",
+        "x": 91,
+        "y": 19,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 59,
+        "pivotX": 54.42,
+        "pivotY": -22.7,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "linear"
+      },
+      {
+        "pivotX": 54.380901199535955,
+        "pivotY": -22.667500177673936,
+        "rotation": -0.05003277189050411,
+        "skewX": -0.05003277189050411,
+        "skewY": -0.05003277189050411
+      },
+      {
+        "pivotX": 54.34180239907191,
+        "pivotY": -22.635000355347874,
+        "rotation": -0.10006554378100822,
+        "skewX": -0.10006554378100822,
+        "skewY": -0.10006554378100822
+      },
+      {
+        "pivotX": 54.30270359860786,
+        "pivotY": -22.60250053302181,
+        "rotation": -0.15009831567151233,
+        "skewX": -0.15009831567151233,
+        "skewY": -0.15009831567151233
+      },
+      {
+        "pivotX": 54.263604798143824,
+        "pivotY": -22.57000071069575,
+        "rotation": -0.20013108756201645,
+        "skewX": -0.20013108756201645,
+        "skewY": -0.20013108756201645
+      },
+      {
+        "pivotX": 54.22450599767978,
+        "pivotY": -22.53750088836969,
+        "rotation": -0.2501638594525205,
+        "skewX": -0.2501638594525205,
+        "skewY": -0.2501638594525205
+      },
+      {
+        "pivotX": 54.18540719721573,
+        "pivotY": -22.505001066043626,
+        "rotation": -0.30019663134302466,
+        "skewX": -0.30019663134302466,
+        "skewY": -0.30019663134302466
+      },
+      {
+        "pivotX": 54.146308396751685,
+        "pivotY": -22.472501243717563,
+        "rotation": -0.35022940323352875,
+        "skewX": -0.35022940323352875,
+        "skewY": -0.35022940323352875
+      },
+      {
+        "pivotX": 54.10720959628764,
+        "pivotY": -22.4400014213915,
+        "rotation": -0.4002621751240329,
+        "skewX": -0.4002621751240329,
+        "skewY": -0.4002621751240329
+      },
+      {
+        "pivotX": 54.0681107958236,
+        "pivotY": -22.407501599065437,
+        "rotation": -0.450294947014537,
+        "skewX": -0.450294947014537,
+        "skewY": -0.450294947014537
+      },
+      {
+        "pivotX": 54.029011995359554,
+        "pivotY": -22.375001776739374,
+        "rotation": -0.500327718905041,
+        "skewX": -0.500327718905041,
+        "skewY": -0.500327718905041
+      },
+      {
+        "pivotX": 53.98991319489551,
+        "pivotY": -22.342501954413315,
+        "rotation": -0.5503604907955452,
+        "skewX": -0.5503604907955452,
+        "skewY": -0.5503604907955452
+      },
+      {
+        "pivotX": 53.95081439443146,
+        "pivotY": -22.310002132087252,
+        "rotation": -0.6003932626860493,
+        "skewX": -0.6003932626860493,
+        "skewY": -0.6003932626860493
+      },
+      {
+        "pivotX": 53.911715593967415,
+        "pivotY": -22.27750230976119,
+        "rotation": -0.6504260345765535,
+        "skewX": -0.6504260345765535,
+        "skewY": -0.6504260345765535
+      },
+      {
+        "pivotX": 53.87261679350337,
+        "pivotY": -22.245002487435126,
+        "rotation": -0.7004588064670575,
+        "skewX": -0.7004588064670575,
+        "skewY": -0.7004588064670575
+      },
+      {
+        "pivotX": 53.83351799303932,
+        "pivotY": -22.212502665109064,
+        "rotation": -0.7504915783575616,
+        "skewX": -0.7504915783575616,
+        "skewY": -0.7504915783575616
+      },
+      {
+        "pivotX": 53.79441919257528,
+        "pivotY": -22.180002842783,
+        "rotation": -0.8005243502480658,
+        "skewX": -0.8005243502480658,
+        "skewY": -0.8005243502480658
+      },
+      {
+        "pivotX": 53.75532039211124,
+        "pivotY": -22.14750302045694,
+        "rotation": -0.8505571221385698,
+        "skewX": -0.8505571221385698,
+        "skewY": -0.8505571221385698
+      },
+      {
+        "pivotX": 53.71622159164719,
+        "pivotY": -22.11500319813088,
+        "rotation": -0.900589894029074,
+        "skewX": -0.900589894029074,
+        "skewY": -0.900589894029074
+      },
+      {
+        "pivotX": 53.677122791183145,
+        "pivotY": -22.082503375804816,
+        "rotation": -0.950622665919578,
+        "skewX": -0.950622665919578,
+        "skewY": -0.950622665919578
+      },
+      {
+        "pivotX": 53.6380239907191,
+        "pivotY": -22.050003553478753,
+        "rotation": -1.000655437810082,
+        "skewX": -1.000655437810082,
+        "skewY": -1.000655437810082
+      },
+      {
+        "pivotX": 53.59892519025506,
+        "pivotY": -22.01750373115269,
+        "rotation": -1.0506882097005863,
+        "skewX": -1.0506882097005863,
+        "skewY": -1.0506882097005863
+      },
+      {
+        "pivotX": 53.55982638979101,
+        "pivotY": -21.985003908826627,
+        "rotation": -1.1007209815910903,
+        "skewX": -1.1007209815910903,
+        "skewY": -1.1007209815910903
+      },
+      {
+        "pivotX": 53.52072758932697,
+        "pivotY": -21.952504086500564,
+        "rotation": -1.1507537534815946,
+        "skewX": -1.1507537534815946,
+        "skewY": -1.1507537534815946
+      },
+      {
+        "pivotX": 53.48162878886292,
+        "pivotY": -21.920004264174505,
+        "rotation": -1.2007865253720986,
+        "skewX": -1.2007865253720986,
+        "skewY": -1.2007865253720986
+      },
+      {
+        "pivotX": 53.442529988398874,
+        "pivotY": -21.887504441848442,
+        "rotation": -1.2508192972626029,
+        "skewX": -1.2508192972626029,
+        "skewY": -1.2508192972626029
+      },
+      {
+        "pivotX": 53.40343118793483,
+        "pivotY": -21.85500461952238,
+        "rotation": -1.300852069153107,
+        "skewX": -1.300852069153107,
+        "skewY": -1.300852069153107
+      },
+      {
+        "pivotX": 53.36433238747078,
+        "pivotY": -21.822504797196316,
+        "rotation": -1.350884841043611,
+        "skewX": -1.350884841043611,
+        "skewY": -1.350884841043611
+      },
+      {
+        "pivotX": 53.32523358700674,
+        "pivotY": -21.790004974870254,
+        "rotation": -1.400917612934115,
+        "skewX": -1.400917612934115,
+        "skewY": -1.400917612934115
+      },
+      {
+        "pivotX": 53.286134786542696,
+        "pivotY": -21.75750515254419,
+        "rotation": -1.4509503848246192,
+        "skewX": -1.4509503848246192,
+        "skewY": -1.4509503848246192
+      },
+      {
+        "pivotX": 53.24703598607865,
+        "pivotY": -21.72500533021813,
+        "rotation": -1.5009831567151233,
+        "skewX": -1.5009831567151233,
+        "skewY": -1.5009831567151233
+      },
+      {
+        "pivotX": 53.207937185614604,
+        "pivotY": -21.69250550789207,
+        "rotation": -1.5510159286056275,
+        "skewX": -1.5510159286056275,
+        "skewY": -1.5510159286056275
+      },
+      {
+        "pivotX": 53.16883838515056,
+        "pivotY": -21.660005685566006,
+        "rotation": -1.6010487004961316,
+        "skewX": -1.6010487004961316,
+        "skewY": -1.6010487004961316
+      },
+      {
+        "pivotX": 53.12973958468652,
+        "pivotY": -21.627505863239943,
+        "rotation": -1.6510814723866358,
+        "skewX": -1.6510814723866358,
+        "skewY": -1.6510814723866358
+      },
+      {
+        "pivotX": 53.09064078422247,
+        "pivotY": -21.59500604091388,
+        "rotation": -1.7011142442771396,
+        "skewX": -1.7011142442771396,
+        "skewY": -1.7011142442771396
+      },
+      {
+        "pivotX": 53.051541983758426,
+        "pivotY": -21.562506218587817,
+        "rotation": -1.751147016167644,
+        "skewX": -1.751147016167644,
+        "skewY": -1.751147016167644
+      },
+      {
+        "pivotX": 53.01244318329438,
+        "pivotY": -21.530006396261754,
+        "rotation": -1.801179788058148,
+        "skewX": -1.801179788058148,
+        "skewY": -1.801179788058148
+      },
+      {
+        "pivotX": 52.973344382830334,
+        "pivotY": -21.497506573935695,
+        "rotation": -1.8512125599486522,
+        "skewX": -1.8512125599486522,
+        "skewY": -1.8512125599486522
+      },
+      {
+        "pivotX": 52.93424558236629,
+        "pivotY": -21.465006751609632,
+        "rotation": -1.901245331839156,
+        "skewX": -1.901245331839156,
+        "skewY": -1.901245331839156
+      },
+      {
+        "pivotX": 52.89514678190224,
+        "pivotY": -21.43250692928357,
+        "rotation": -1.9512781037296603,
+        "skewX": -1.9512781037296603,
+        "skewY": -1.9512781037296603
+      },
+      {
+        "pivotX": 52.8560479814382,
+        "pivotY": -21.400007106957506,
+        "rotation": -2.001310875620164,
+        "skewX": -2.001310875620164,
+        "skewY": -2.001310875620164
+      },
+      {
+        "pivotX": 52.816949180974156,
+        "pivotY": -21.367507284631444,
+        "rotation": -2.0513436475106683,
+        "skewX": -2.0513436475106683,
+        "skewY": -2.0513436475106683
+      },
+      {
+        "pivotX": 52.77785038051011,
+        "pivotY": -21.33500746230538,
+        "rotation": -2.1013764194011726,
+        "skewX": -2.1013764194011726,
+        "skewY": -2.1013764194011726
+      },
+      {
+        "pivotX": 52.73875158004606,
+        "pivotY": -21.302507639979318,
+        "rotation": -2.151409191291677,
+        "skewX": -2.151409191291677,
+        "skewY": -2.151409191291677
+      },
+      {
+        "pivotX": 52.69965277958202,
+        "pivotY": -21.27000781765326,
+        "rotation": -2.2014419631821807,
+        "skewX": -2.2014419631821807,
+        "skewY": -2.2014419631821807
+      },
+      {
+        "pivotX": 52.66055397911798,
+        "pivotY": -21.237507995327196,
+        "rotation": -2.251474735072685,
+        "skewX": -2.251474735072685,
+        "skewY": -2.251474735072685
+      },
+      {
+        "pivotX": 52.62145517865393,
+        "pivotY": -21.205008173001133,
+        "rotation": -2.301507506963189,
+        "skewX": -2.301507506963189,
+        "skewY": -2.301507506963189
+      },
+      {
+        "pivotX": 52.582356378189886,
+        "pivotY": -21.17250835067507,
+        "rotation": -2.351540278853693,
+        "skewX": -2.351540278853693,
+        "skewY": -2.351540278853693
+      },
+      {
+        "pivotX": 52.54325757772584,
+        "pivotY": -21.140008528349007,
+        "rotation": -2.4015730507441972,
+        "skewX": -2.4015730507441972,
+        "skewY": -2.4015730507441972
+      },
+      {
+        "pivotX": 52.50415877726179,
+        "pivotY": -21.107508706022944,
+        "rotation": -2.4516058226347015,
+        "skewX": -2.4516058226347015,
+        "skewY": -2.4516058226347015
+      },
+      {
+        "pivotX": 52.46505997679775,
+        "pivotY": -21.07500888369688,
+        "rotation": -2.5016385945252058,
+        "skewX": -2.5016385945252058,
+        "skewY": -2.5016385945252058
+      },
+      {
+        "pivotX": 52.4259611763337,
+        "pivotY": -21.042509061370822,
+        "rotation": -2.5516713664157096,
+        "skewX": -2.5516713664157096,
+        "skewY": -2.5516713664157096
+      },
+      {
+        "pivotX": 52.38686237586966,
+        "pivotY": -21.01000923904476,
+        "rotation": -2.601704138306214,
+        "skewX": -2.601704138306214,
+        "skewY": -2.601704138306214
+      },
+      {
+        "pivotX": 52.347763575405615,
+        "pivotY": -20.977509416718696,
+        "rotation": -2.6517369101967176,
+        "skewX": -2.6517369101967176,
+        "skewY": -2.6517369101967176
+      },
+      {
+        "pivotX": 52.30866477494157,
+        "pivotY": -20.945009594392634,
+        "rotation": -2.701769682087222,
+        "skewX": -2.701769682087222,
+        "skewY": -2.701769682087222
+      },
+      {
+        "pivotX": 52.26956597447752,
+        "pivotY": -20.91250977206657,
+        "rotation": -2.7518024539777257,
+        "skewX": -2.7518024539777257,
+        "skewY": -2.7518024539777257
+      },
+      {
+        "pivotX": 52.23046717401348,
+        "pivotY": -20.880009949740508,
+        "rotation": -2.80183522586823,
+        "skewX": -2.80183522586823,
+        "skewY": -2.80183522586823
+      },
+      {
+        "pivotX": 52.19136837354944,
+        "pivotY": -20.84751012741445,
+        "rotation": -2.8518679977587342,
+        "skewX": -2.8518679977587342,
+        "skewY": -2.8518679977587342
+      },
+      {
+        "pivotX": 52.15226957308539,
+        "pivotY": -20.815010305088386,
+        "rotation": -2.9019007696492385,
+        "skewX": -2.9019007696492385,
+        "skewY": -2.9019007696492385
+      },
+      {
+        "pivotX": 52.113170772621345,
+        "pivotY": -20.782510482762323,
+        "rotation": -2.9519335415397423,
+        "skewX": -2.9519335415397423,
+        "skewY": -2.9519335415397423
+      },
+      {
+        "pivotX": 52.0740719721573,
+        "pivotY": -20.75001066043626,
+        "rotation": 3.2812189937493397,
+        "skewX": 3.2812189937493397,
+        "skewY": 3.2812189937493397,
+        "keyFrame": true,
+        "currentFrame": 60,
+        "endFrame": 60,
+        "easing": "none"
+      }
+    ]
+  },
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "BlockTemplate",
+        "template": true,
+        "guide": false,
+        "instanceName": "blockMaster",
+        "filters": {},
+        "portrait": {
+          "x": 0,
+          "y": 240,
+          "rotation": 0,
+          "scaleX": 0.72,
+          "scaleY": 0.72,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "landscape": {
+          "x": 0,
+          "y": -11,
+          "rotation": 0,
+          "scaleX": 0.99,
+          "scaleY": 0.99,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      },
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Templatewys7",
+        "template": true,
+        "guide": false,
+        "instanceName": "circleContainer",
+        "filters": {},
+        "portrait": {
+          "x": 376,
+          "y": 489,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "landscape": {
+          "x": 515,
+          "y": 327,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "BlockTemplate": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BlockContainerTemplate",
+          "template": true,
+          "guide": false,
+          "instanceName": "blockContainer",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.3,
+            "height": 742.2,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.3,
+            "height": 742.2,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "portrait": {
+            "x": 974,
+            "y": 349,
+            "rotation": 3.14,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 0.8,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 974,
+            "y": 349,
+            "rotation": 3.14,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 0.8,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "type": "btn",
+          "name": "BackBtnTemplate",
+          "guide": false,
+          "template": true,
+          "instanceName": "forewardBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "portrait": {
+            "x": 52,
+            "y": 349,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 0.8,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 52.66,
+            "y": 349,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 0.8,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "type": "btn",
+          "name": "BackBtnTemplate",
+          "guide": false,
+          "template": true,
+          "instanceName": "backBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "portrait": {
+            "x": 862,
+            "y": 4,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 862.78,
+            "y": 4.53,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "type": "btn",
+          "name": "Templatem3yc",
+          "guide": false,
+          "template": true,
+          "instanceName": "menuBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "portrait": {
+            "x": 50,
+            "y": 4,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 50,
+            "y": 4.53,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "type": "btn",
+          "name": "Templatem3yc",
+          "guide": false,
+          "template": true,
+          "instanceName": "replayBTN",
+          "editorOnly": false,
+          "filters": {}
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templateguek",
+          "template": true,
+          "guide": false,
+          "instanceName": "pageNum",
+          "filters": {},
+          "portrait": {
+            "x": 519,
+            "y": 589,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 728,
+            "height": 37,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 519,
+            "y": 589,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 728,
+            "height": 37,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Twister",
+          "template": true,
+          "guide": false,
+          "instanceName": "twister",
+          "filters": {},
+          "portrait": {
+            "x": 522,
+            "y": 341,
+            "rotation": 0,
+            "scaleX": 0.28,
+            "scaleY": 0.28,
+            "alpha": 1,
+            "pivotX": 91.96,
+            "pivotY": 19.31,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 241,
+            "height": 244.64999999999998,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 522,
+            "y": 341,
+            "rotation": 0,
+            "scaleX": 0.28,
+            "scaleY": 0.28,
+            "alpha": 1,
+            "pivotX": 91.96,
+            "pivotY": 19.31,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 241,
+            "height": 244.64999999999998,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "TextBox",
+          "template": true,
+          "guide": false,
+          "instanceName": "textBox",
+          "filters": {},
+          "portrait": {
+            "x": 519,
+            "y": 616,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 728,
+            "height": 37,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 519,
+            "y": 616,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 728,
+            "height": 37,
+            "skewX": 0,
+            "skewY": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "BlockTemplate"
+    },
+    "BlockContainerTemplate": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Bg",
+          "template": true,
+          "guide": false,
+          "instanceName": "bg",
+          "filters": {},
+          "portrait": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 0,
+            "scaleX": 1.12,
+            "y": -4,
+            "visible": true,
+            "scaleY": 1.36,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          },
+          "landscape": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 0,
+            "scaleX": 1.12,
+            "y": -4,
+            "visible": true,
+            "scaleY": 1.36,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance12",
+          "template": true,
+          "guide": false,
+          "instanceName": "filmSides",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 3,
+            "y": 15,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BlockBG",
+          "template": true,
+          "guide": false,
+          "instanceName": "blockBG",
+          "filters": {},
+          "portrait": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 53,
+            "scaleX": 1,
+            "y": 66,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          },
+          "landscape": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 52,
+            "scaleX": 1,
+            "y": 66,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance12",
+          "template": true,
+          "guide": false,
+          "instanceName": "filmSidesTop",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": -732,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 4,
+            "y": -734,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance12",
+          "template": true,
+          "guide": false,
+          "instanceName": "filmSidesBTM",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 745,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 4,
+            "y": 745,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 1028.15,
+            "height": 740.2,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BlockBG",
+          "template": true,
+          "guide": false,
+          "instanceName": "blockBGTop",
+          "filters": {},
+          "portrait": {
+            "x": 54,
+            "y": -630,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 917.75,
+            "height": 547.15,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 52,
+            "y": -631,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 917.75,
+            "height": 547.15,
+            "skewX": 0,
+            "skewY": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BlockBG",
+          "template": true,
+          "guide": false,
+          "instanceName": "blockBGBTM",
+          "filters": {},
+          "portrait": {
+            "x": 53,
+            "y": 848,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 917.75,
+            "height": 547.15,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 52,
+            "y": 848,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 917.75,
+            "height": 547.15,
+            "skewX": 0,
+            "skewY": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "BlockContainerTemplate"
+    },
+    "Bg": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Bg_IMG",
+          "width": 918,
+          "height": 548,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance5.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Bg"
+    },
+    "Instance12": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance12_IMG",
+          "width": 1029,
+          "height": 741,
+          "x": 0,
+          "y": -2,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance12.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance12"
+    },
+    "BlockBG": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance7",
+          "template": true,
+          "guide": false,
+          "instanceName": "innerMSK",
+          "filters": {},
+          "portrait": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 0,
+            "scaleX": 1,
+            "y": 0,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          },
+          "landscape": {
+            "skewX": 0,
+            "width": 917.75,
+            "isAnchored": false,
+            "skewY": 0,
+            "rotation": 0,
+            "x": 0,
+            "scaleX": 1,
+            "y": 0,
+            "visible": true,
+            "scaleY": 1,
+            "pivotX": 0,
+            "alpha": 1,
+            "height": 547.15,
+            "pivotY": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "BlockBG"
+    },
+    "Instance7": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance7_IMG",
+          "width": 918,
+          "height": 548,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance5.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance7"
+    },
+    "BackBtnTemplate": {
+      "type": "btn",
+      "name": "BackBtnTemplate",
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BTNTemplate",
+          "template": true,
+          "guide": false,
+          "instanceName": "upState",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.2,
+            "scaleY": 0.2,
+            "alpha": 1,
+            "pivotX": 206.5,
+            "pivotY": 176,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.2,
+            "scaleY": 0.2,
+            "alpha": 1,
+            "pivotX": 206.5,
+            "pivotY": 176,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BTNTemplate",
+          "template": true,
+          "guide": false,
+          "instanceName": "downState",
+          "filters": {},
+          "portrait": {
+            "x": -1,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.17,
+            "scaleY": 0.17,
+            "alpha": 1,
+            "pivotX": 206.5,
+            "pivotY": 176,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": -1,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.17,
+            "scaleY": 0.17,
+            "alpha": 1,
+            "pivotX": 206.5,
+            "pivotY": 176,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ]
+    },
+    "BTNTemplate": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BTNTemplate_IMG",
+          "width": 413,
+          "height": 352,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/zs_gen_1774133515582.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BTNTemplate"
+    },
+    "Templatem3yc": {
+      "type": "btn",
+      "name": "Templatem3yc",
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatedby6",
+          "template": true,
+          "guide": false,
+          "instanceName": "upState",
+          "filters": {},
+          "portrait": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.51,
+            "scaleY": 0.51,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 0,
+            "y": 0,
+            "rotation": 0,
+            "scaleX": 0.51,
+            "scaleY": 0.51,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templatedby6",
+          "template": true,
+          "guide": false,
+          "instanceName": "downState",
+          "filters": {},
+          "portrait": {
+            "x": 5,
+            "y": 3,
+            "rotation": 0,
+            "scaleX": 0.46,
+            "scaleY": 0.46,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 5,
+            "y": 3,
+            "rotation": 0,
+            "scaleX": 0.46,
+            "scaleY": 0.46,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Templated90t",
+          "template": true,
+          "guide": false,
+          "instanceName": "labelContainer",
+          "filters": {},
+          "portrait": {
+            "x": 57,
+            "y": 31,
+            "rotation": 0,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          },
+          "landscape": {
+            "x": 57,
+            "y": 31,
+            "rotation": 0,
+            "scaleX": 0.9,
+            "scaleY": 0.9,
+            "alpha": 1,
+            "pivotX": 0,
+            "pivotY": 0,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            }
+          }
+        }
+      ]
+    },
+    "Templatedby6": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Templatedby6_IMG",
+          "width": 224,
+          "height": 118,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Screenshot 2026-03-22 at 20.24.17.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Templatedby6"
+    },
+    "Templated90t": {
+      "children": [
+        {
+          "text": "New Textfield",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 89,
+          "height": 22,
+          "alpha": 1,
+          "size": 18,
+          "align": "center",
+          "fontName": "Apple LiGothic",
+          "z": 1,
+          "stroke": "#042895",
+          "strokeThickness": 0,
+          "wordWrap": false,
+          "wordWrapWidth": 100,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0.5,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "bolder",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "Templated90t"
+    },
+    "Templateguek": {
+      "children": [
+        {
+          "text": "The search for a new Mother",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 208,
+          "height": 26,
+          "alpha": 1,
+          "size": 16,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 3,
+          "wordWrap": true,
+          "wordWrapWidth": 728,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffd500"
+        }
+      ],
+      "type": "asset",
+      "name": "Templateguek"
+    },
+    "Twister": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Instance9",
+          "template": true,
+          "guide": false,
+          "instanceName": "instance9",
+          "filters": {},
+          "portrait": {
+            "x": 91,
+            "y": 19,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 54.42,
+            "pivotY": -22.7,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 241,
+            "height": 244.65,
+            "skewX": 0,
+            "skewY": 0
+          },
+          "landscape": {
+            "x": 91,
+            "y": 19,
+            "rotation": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "alpha": 1,
+            "pivotX": 54.42,
+            "pivotY": -22.7,
+            "visible": true,
+            "isAnchored": false,
+            "anchorLocalPercentage": {
+              "x": 0,
+              "y": 0
+            },
+            "width": 241,
+            "height": 244.65,
+            "skewX": 0,
+            "skewY": 0
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Twister"
+    },
+    "Instance9": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Instance9_IMG",
+          "width": 241,
+          "height": 240,
+          "x": -67.85,
+          "y": -141.1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/instance9.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Instance9"
+    },
+    "TextBox": {
+      "children": [
+        {
+          "text": "The search for a new Mother",
+          "type": "textField",
+          "name": "label",
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "width": 320,
+          "height": 31,
+          "alpha": 1,
+          "size": 25,
+          "align": "center",
+          "fontName": "Helvetica",
+          "z": 1,
+          "stroke": "#000000",
+          "strokeThickness": 0,
+          "wordWrap": true,
+          "wordWrapWidth": 728,
+          "breakWords": false,
+          "leading": 0,
+          "letterSpacing": 0,
+          "padding": 0,
+          "textAnchorX": 0.5,
+          "textAnchorY": 0,
+          "lineHeight": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "lineJoin": "round",
+          "fontWeight": "normal",
+          "dropShadow": false,
+          "dropShadowAngle": 0.5235987755982988,
+          "dropShadowBlur": 0,
+          "dropShadowColor": "#000000",
+          "dropShadowDistance": 5,
+          "fillType": "solid",
+          "filters": {},
+          "color": "#ffffff"
+        }
+      ],
+      "type": "asset",
+      "name": "TextBox"
+    },
+    "Templatewys7": {
+      "children": [],
+      "type": "asset",
+      "name": "Templatewys7"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

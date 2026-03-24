@@ -1,0 +1,309 @@
+{
+    "items": [
+        {
+            "caption": "",
+            "file": "assets/swf/0.jpg",
+            "sound": "assets/sounds/quiet.mp3",
+            "voices": {}
+        },
+        {
+            "caption": "The search for a new mother",
+            "file": "assets/swf/1.swf",
+            "sound": "assets/sounds/1.mp3",
+            "voices": {
+                "chickMC": "voices/1/lala.mp3"
+            }
+        },
+        {
+            "caption": "My name is Brownie, these are my brothers, the chicks,\n and my mother is the chicken.",
+            "file": "assets/swf/2.swf",
+            "sound": "assets/sounds/2.mp3",
+            "voices": {
+                "chick1MC": "voices/2/1.mp3",
+                "chick2MC": "voices/2/2.mp3",
+                "chick3MC": "voices/2/3.mp3",
+                "chick4MC": "voices/2/4.mp3",
+                "chick5MC": "voices/2/5.mp3",
+                "chick6MC": "voices/2/6.mp3",
+                "motherMC": "voices/2/chicken.mp3"
+            }
+        },
+        {
+            "caption": "Mother feeds us worms and seeds, \nwhich she pecks from the ground with her long beak.",
+            "file": "assets/swf/3.swf",
+            "sound": "assets/sounds/3.mp3",
+            "voices": {
+                "chick1MC": "voices/3/7.mp3",
+                "chick2MC": "voices/3/8.mp3",
+                "chick3MC": "voices/3/9.mp3",
+                "chick4MC": "voices/3/10.mp3",
+                "chick5MC": "voices/3/10.mp3",
+                "cowMC":    "voices/3/cow.mp3",
+                "motherMC": "voices/3/chicken.mp3"
+            }
+        },
+        {
+            "caption": "One morning, a young calf broke out from the barn,\n jumped all over and scared us.",
+            "file": "assets/swf/4.swf",
+            "sound": "assets/sounds/4.mp3",
+            "voices": {
+                "chickenMC": "voices/4/chicken.mp3",
+                "chicksMC":  "voices/4/chicks.mp3",
+                "meMC":      "voices/4/me.mp3"
+            }
+        },
+        {
+            "caption": "Mother called us to hide under her wings, so that the calf would \nnot trample us. But I didn't pay attention.",
+            "file": "assets/swf/5.swf",
+            "sound": "assets/sounds/5.mp3",
+            "voices": {
+                "chickenMC": "voices/5/chicken.mp3",
+                "cowMC":     "voices/5/cow1.mp3",
+                "meMC":      "voices/5/me.mp3"
+            }
+        },
+        {
+            "caption": "Mother was angry with me and pecked my head: \"Very Dangerous!\" - she said. Mother doesn't love me! I will have to find a new mother.",
+            "file": "assets/swf/6.swf",
+            "sound": "assets/sounds/6.mp3",
+            "voices": {
+                "chick1MC": "voices/6/chick1.mp3",
+                "chick2MC": "voices/6/chick2.mp3",
+                "chick3MC": "voices/6/chick3.mp3",
+                "meMC":     "voices/6/me.mp3",
+                "motherMC": "voices/6/chicken.mp3"
+            }
+        },
+        {
+            "caption": "I was insulted, and ran away.",
+            "file": "assets/swf/7.swf",
+            "sound": "assets/sounds/7.mp3",
+            "voices": {
+                "chick1MC": "voices/7/chick1.mp3",
+                "chick2MC": "voices/7/chick2.mp3",
+                "chick3MC": "voices/7/chick3.mp3",
+                "chick4MC": "voices/7/chick4.mp3",
+                "chick5MC": "voices/7/chick5.mp3",
+                "meMC":     "voices/7/me.mp3"
+            }
+        },
+        {
+            "caption": "Hello White Goose, will you be my mother? \"Of course I will\",\n said the goose, \"Come join my five ducklings for a stroll.\"",
+            "file": "assets/swf/8.swf",
+            "sound": "assets/sounds/8.mp3",
+            "voices": {
+                "chickMC":  "voices/8/me.mp3",
+                "duckMC":   "voices/8/goose.mp3",
+                "quack1MC": "voices/8/duck1.mp3",
+                "quack2MC": "voices/8/duck2.mp3",
+                "quack3MC": "voices/8/duck3.mp3",
+                "quack4MC": "voices/8/duck4.mp3"
+            }
+        },
+        {
+            "caption": "Mother Goose led us to the lake.",
+            "file": "assets/swf/9.swf",
+            "sound": "assets/sounds/9.mp3",
+            "voices": {
+                "reed1MC": "voices/9/1.mp3",
+                "reed2MC": "voices/9/2.mp3",
+                "reed3MC": "voices/9/3.mp3",
+                "reed4MC": "voices/9/4.mp3",
+                "reed5MC": "voices/9/5.mp3",
+                "reed6MC": "voices/9/6.mp3",
+                "reed7MC": "voices/9/7.mp3"
+            }
+        },
+        {
+            "caption": "The ducklings all jumped happily into the water. Only I remained on the shore, trembling with fear.",
+            "file": "assets/swf/10.swf",
+            "sound": "assets/sounds/10.mp3",
+            "voices": {
+                "duckMC": "voices/10/duck.mp3",
+                "meMC": "voices/10/me.mp3",
+                "quack1MC": "voices/10/quack1.mp3",
+                "quack2MC": "voices/10/quack2.mp3",
+                "quack3MC": "voices/10/quack3.mp3",
+                "quack4MC": "voices/10/quack4.mp3"
+            }
+        },
+        {
+            "caption": "\"Silly you, don't be scared, the water is refreshing, just spread your feet out and swim\" - said mother goose, and pushed me straight into the water.",
+            "file": "assets/swf/11.swf",
+            "sound": "assets/sounds/11.mp3",
+            "voices": {
+                "duckFaceMC": "voices/11/duck.mp3",
+                "meMC": "voices/11/me.mp3",
+                "quack1MC": "voices/11/quack1.mp3",
+                "quack2MC": "voices/11/quack2.mp3",
+                "quack3MC": "voices/11/quack3.mp3"
+            }
+        },
+        {
+            "caption": "I was startled. My feathers were soaked wet. \nIf I hadn't jumped to the shore I would surely have drowned!",
+            "file": "assets/swf/12.swf",
+            "sound": "assets/sounds/12.mp3",
+            "voices": {
+                "meMC": "voices/12/drown.mp3"
+            }
+        },
+        {
+            "caption": "I ran from the lake as fast as I could.",
+            "file": "assets/swf/13.swf",
+            "sound": "assets/sounds/13.mp3",
+            "voices": {
+                "meMC": "voices/13/me.mp3"
+            }
+        },
+        {
+            "caption": "How nice is that family of swallows, \nsitting in the nest on the windowsill.",
+            "file": "assets/swf/14.swf",
+            "sound": "assets/sounds/14.mp3",
+            "voices": {
+                "birdMC": "voices/14/bird.mp3",
+                "chickling2MC": "voices/14/gozal.mp3",
+                "chicklingMC": "voices/14/gozal.mp3",
+                "meMC": "voices/14/me.mp3"
+            }
+        },
+        {
+            "caption": "Mother swallow, will you be my mother?",
+            "file": "assets/swf/15.swf",
+            "sound": "assets/sounds/15.mp3",
+            "voices": {
+                "chick1MC": "voices/15/gozal1.mp3",
+                "chick2MC": "voices/15/gozal2.mp3",
+                "chick3MC": "voices/15/gozal3.mp3",
+                "chick4MC": "voices/15/gozal4.mp3",
+                "meMC": "voices/15/me.mp3"
+            }
+        },
+        {
+            "caption": "\"Yes, gladly\", said mother swallow, \n\"Come join my nest and eat with my babies.\"",
+            "file": "assets/swf/16.swf",
+            "sound": "assets/sounds/16.mp3",
+            "voices": {
+                "chick1MC": "voices/16/gozal1.mp3",
+                "chick2MC": "voices/16/gozal2.mp3",
+                "chick3MC": "voices/16/gozal3.mp3",
+                "meMC": "voices/16/me.mp3",
+                "wormMC": "voices/16/worm.mp3"
+            }
+        },
+        {
+            "caption": "\"It's time my young chicks, to learn to fly.\"\n Said Mother swallow.",
+            "file": "assets/swf/17.swf",
+            "sound": "assets/sounds/17.mp3",
+            "voices": {
+                "birdMC": "voices/17/bird.mp3",
+                "chick1MC": "voices/17/tweet1.mp3",
+                "chick2MC": "voices/17/tweet2.mp3",
+                "chick4MC": "voices/17/tweet4.mp3",
+                "chick5MC": "voices/17/tweet4.mp3",
+                "meMC": "voices/17/me.mp3"
+            }
+        },
+        {
+            "caption": "\"You coward, spread your wings out and fly!\", said Mother swallow.\n \"But my wings are short, and I can't fly like you\", I Begged.",
+            "file": "assets/swf/18.swf",
+            "sound": "assets/sounds/18.mp3",
+            "voices": {
+                "bird1MC": "voices/18/bird1.mp3",
+                "bird2MC": "voices/18/bird2.mp3",
+                "bird3MC": "voices/18/bird3.mp3",
+                "bird4MC": "voices/18/bird4.mp3",
+                "meMC": "voices/18/me.mp3"
+            }
+        },
+        {
+            "caption": "I wanted to be like the other swallows, \nso i spread my wings.... and fell to the ground.",
+            "file": "assets/swf/19.swf",
+            "sound": "assets/sounds/19.mp3",
+            "voices": {
+                "birdMC": "voices/19/bird.mp3",
+                "meMC": "voices/19/me.mp3"
+            }
+        },
+        {
+            "caption": "My whole body hurt! But then I saw a beautiful Cat!",
+            "file": "assets/swf/20.swf",
+            "sound": "assets/sounds/20.mp3",
+            "voices": {
+                "catMC": "voices/20/cat.mp3",
+                "meMC": "voices/20/me.mp3"
+            }
+        },
+        {
+            "caption": "\"Will you be my mother?\" \"Yes, certainly..\" - Said mother cat. \"Let's hurry to the basement, my kittens are learning how to hunt mice.\"",
+            "file": "assets/swf/21.swf",
+            "sound": "assets/sounds/21.mp3",
+            "voices": {
+                "catMC": "voices/21/cat.mp3",
+                "meMC": "voices/21/me.mp3"
+            }
+        },
+        {
+            "caption": "\"But i'm afraid of mice!\"",
+            "file": "assets/swf/22.swf",
+            "sound": "assets/sounds/22.mp3",
+            "voices": {
+                "cat1MC": "voices/22/kitten1.mp3",
+                "cat2MC": "voices/22/kitten2.mp3",
+                "mouseMC": "voices/22/mouse.mp3"
+            }
+        },
+        {
+            "caption": "\"Then you'll never make it! you'll always remain hungry!\"\n said mother Cat, and scratched me!",
+            "file": "assets/swf/23.swf",
+            "sound": "assets/sounds/23.mp3",
+            "voices": {
+                "catMC": "voices/23/cat.mp3",
+                "meMC": "voices/23/me.mp3"
+            }
+        },
+        {
+            "caption": "How lovely is Mother Dog playing with her puppies, \nI think i'll join them. \"Mother Dog, will you be my mother?\"",
+            "file": "assets/swf/24.swf",
+            "sound": "assets/sounds/24.mp3",
+            "voices": {
+                "dogMC": "voices/24/dog.mp3",
+                "meMC": "voices/24/me.mp3",
+                "puppy2MC": "voices/24/puppy1.mp3",
+                "puppyMC": "voices/24/puppy2.mp3"
+            }
+        },
+        {
+            "caption": "Mother Dog jumped out of her kennel and chased me away. \n\"Woof Woof! No No! You are not one of us! Go back to Mother Chicken.\"",
+            "file": "assets/swf/25.swf",
+            "sound": "assets/sounds/25.mp3",
+            "voices": {
+                "dogMC": "voices/25/bark.mp3"
+            }
+        },
+        {
+            "caption": "I ran to my mother, Mother Chicken, and cried: \"You are the \nbest mother in the world! Only you are my mother!\"",
+            "file": "assets/swf/26.swf",
+            "sound": "assets/sounds/26.mp3",
+            "voices": {
+                "chick1MC": "voices/26/chick1.mp3",
+                "chick2MC": "voices/26/chick2.mp3",
+                "chick3MC": "voices/26/chick3.mp3",
+                "chickenMC": "voices/26/chicken.mp3",
+                "meMC": "voices/26/me.mp3"
+            }
+        },
+        {
+            "caption": "We all crawled together under mothers wings.\n It was wonderful!",
+            "file": "assets/swf/27.swf",
+            "sound": "assets/sounds/27.mp3",
+            "voices": {
+                "chick1MC": "voices/27/chick1.mp3",
+                "chick2MC": "voices/27/chick2.mp3",
+                "chick3MC": "voices/27/chick3.mp3",
+                "chick4MC": "voices/27/chick4.mp3",
+                "chick5MC": "voices/27/chick5.mp3",
+                "chickenMC": "voices/27/chicken.mp3"
+            }
+        }
+    ]
+}

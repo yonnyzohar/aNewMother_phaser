@@ -1,0 +1,2093 @@
+{
+  "resolution": {
+    "x": 907,
+    "y": 512
+  },
+  "animTracks": {
+    "chickinner_Chick": [
+      {
+        "chilName": "chickinner",
+        "parentTemplate": "Chick",
+        "x": 0,
+        "y": -1,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "y": 18,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "y": 22,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      },
+      {
+        "y": 23,
+        "keyFrame": true,
+        "currentFrame": 13,
+        "endFrame": 13,
+        "easing": "none"
+      },
+      {
+        "y": 25,
+        "keyFrame": true,
+        "currentFrame": 14,
+        "endFrame": 14,
+        "easing": "none"
+      },
+      {
+        "y": 26,
+        "keyFrame": true,
+        "currentFrame": 15,
+        "endFrame": 15,
+        "easing": "none"
+      },
+      {
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 16,
+        "endFrame": 16,
+        "easing": "none"
+      },
+      {
+        "y": 29,
+        "keyFrame": true,
+        "currentFrame": 17,
+        "endFrame": 17,
+        "easing": "none"
+      },
+      {
+        "y": 30,
+        "keyFrame": true,
+        "currentFrame": 18,
+        "endFrame": 18,
+        "easing": "none"
+      },
+      {
+        "y": 31,
+        "keyFrame": true,
+        "currentFrame": 19,
+        "endFrame": 19,
+        "easing": "none"
+      },
+      {
+        "y": 32,
+        "keyFrame": true,
+        "currentFrame": 20,
+        "endFrame": 20,
+        "easing": "none"
+      },
+      {
+        "y": 33,
+        "keyFrame": true,
+        "currentFrame": 21,
+        "endFrame": 21,
+        "easing": "none"
+      },
+      {
+        "y": 34,
+        "keyFrame": true,
+        "currentFrame": 22,
+        "endFrame": 22,
+        "easing": "none"
+      },
+      {
+        "y": 35,
+        "keyFrame": true,
+        "currentFrame": 23,
+        "endFrame": 23,
+        "easing": "none"
+      },
+      {
+        "y": 36,
+        "keyFrame": true,
+        "currentFrame": 24,
+        "endFrame": 24,
+        "easing": "none"
+      },
+      {
+        "y": 37,
+        "keyFrame": true,
+        "currentFrame": 25,
+        "endFrame": 25,
+        "easing": "none"
+      },
+      {
+        "y": 38,
+        "keyFrame": true,
+        "currentFrame": 26,
+        "endFrame": 26,
+        "easing": "none"
+      },
+      {
+        "y": 39,
+        "keyFrame": true,
+        "currentFrame": 27,
+        "endFrame": 28,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 40,
+        "keyFrame": true,
+        "currentFrame": 29,
+        "endFrame": 30,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 41,
+        "keyFrame": true,
+        "currentFrame": 31,
+        "endFrame": 32,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 42,
+        "keyFrame": true,
+        "currentFrame": 33,
+        "endFrame": 35,
+        "easing": "none"
+      },
+      {},
+      {},
+      {
+        "y": 43,
+        "keyFrame": true,
+        "currentFrame": 36,
+        "endFrame": 39,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {
+        "y": 41,
+        "keyFrame": true,
+        "currentFrame": 40,
+        "endFrame": 40,
+        "easing": "none"
+      },
+      {
+        "y": 38,
+        "keyFrame": true,
+        "currentFrame": 41,
+        "endFrame": 41,
+        "easing": "none"
+      },
+      {
+        "y": 36,
+        "keyFrame": true,
+        "currentFrame": 42,
+        "endFrame": 42,
+        "easing": "none"
+      },
+      {
+        "y": 34,
+        "keyFrame": true,
+        "currentFrame": 43,
+        "endFrame": 43,
+        "easing": "none"
+      },
+      {
+        "y": 32,
+        "keyFrame": true,
+        "currentFrame": 44,
+        "endFrame": 44,
+        "easing": "none"
+      },
+      {
+        "y": 31,
+        "keyFrame": true,
+        "currentFrame": 45,
+        "endFrame": 45,
+        "easing": "none"
+      },
+      {
+        "y": 29,
+        "keyFrame": true,
+        "currentFrame": 46,
+        "endFrame": 46,
+        "easing": "none"
+      },
+      {
+        "y": 27,
+        "keyFrame": true,
+        "currentFrame": 47,
+        "endFrame": 47,
+        "easing": "none"
+      },
+      {
+        "y": 25,
+        "keyFrame": true,
+        "currentFrame": 48,
+        "endFrame": 48,
+        "easing": "none"
+      },
+      {
+        "y": 24,
+        "keyFrame": true,
+        "currentFrame": 49,
+        "endFrame": 49,
+        "easing": "none"
+      },
+      {
+        "y": 22,
+        "keyFrame": true,
+        "currentFrame": 50,
+        "endFrame": 50,
+        "easing": "none"
+      },
+      {
+        "y": 20,
+        "keyFrame": true,
+        "currentFrame": 51,
+        "endFrame": 51,
+        "easing": "none"
+      },
+      {
+        "y": 19,
+        "keyFrame": true,
+        "currentFrame": 52,
+        "endFrame": 52,
+        "easing": "none"
+      },
+      {
+        "y": 17,
+        "keyFrame": true,
+        "currentFrame": 53,
+        "endFrame": 53,
+        "easing": "none"
+      },
+      {
+        "y": 16,
+        "keyFrame": true,
+        "currentFrame": 54,
+        "endFrame": 54,
+        "easing": "none"
+      },
+      {
+        "y": 15,
+        "keyFrame": true,
+        "currentFrame": 55,
+        "endFrame": 55,
+        "easing": "none"
+      },
+      {
+        "y": 13,
+        "keyFrame": true,
+        "currentFrame": 56,
+        "endFrame": 56,
+        "easing": "none"
+      },
+      {
+        "y": 12,
+        "keyFrame": true,
+        "currentFrame": 57,
+        "endFrame": 57,
+        "easing": "none"
+      },
+      {
+        "y": 11,
+        "keyFrame": true,
+        "currentFrame": 58,
+        "endFrame": 58,
+        "easing": "none"
+      },
+      {
+        "y": 10,
+        "keyFrame": true,
+        "currentFrame": 59,
+        "endFrame": 59,
+        "easing": "none"
+      },
+      {
+        "y": 9,
+        "keyFrame": true,
+        "currentFrame": 60,
+        "endFrame": 60,
+        "easing": "none"
+      },
+      {
+        "y": 8,
+        "keyFrame": true,
+        "currentFrame": 61,
+        "endFrame": 61,
+        "easing": "none"
+      },
+      {
+        "y": 7,
+        "keyFrame": true,
+        "currentFrame": 62,
+        "endFrame": 62,
+        "easing": "none"
+      },
+      {
+        "y": 6,
+        "keyFrame": true,
+        "currentFrame": 63,
+        "endFrame": 63,
+        "easing": "none"
+      },
+      {
+        "y": 5,
+        "keyFrame": true,
+        "currentFrame": 64,
+        "endFrame": 64,
+        "easing": "none"
+      },
+      {
+        "y": 4,
+        "keyFrame": true,
+        "currentFrame": 65,
+        "endFrame": 65,
+        "easing": "none"
+      },
+      {
+        "y": 3,
+        "keyFrame": true,
+        "currentFrame": 66,
+        "endFrame": 67,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 2,
+        "keyFrame": true,
+        "currentFrame": 68,
+        "endFrame": 69,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 1,
+        "keyFrame": true,
+        "currentFrame": 70,
+        "endFrame": 71,
+        "easing": "none"
+      },
+      {},
+      {
+        "y": 0,
+        "keyFrame": true,
+        "currentFrame": 72,
+        "endFrame": 77,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "tween7_Chickinner": [
+      {
+        "chilName": "tween7",
+        "parentTemplate": "Chickinner",
+        "x": -119,
+        "y": 144,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -102,
+        "y": 148,
+        "rotation": -0.26180351798787144,
+        "scaleX": 0.9999866531271137,
+        "scaleY": 0.9999866531271137,
+        "skewX": -0.26180351798787144,
+        "skewY": -0.26180351798787144,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": -86,
+        "y": 152,
+        "rotation": -0.5235843468961953,
+        "scaleX": 0.9999944736329872,
+        "scaleY": 0.9999944736329872,
+        "skewX": -0.5235843468961953,
+        "skewY": -0.5235843468961953,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": -70,
+        "y": 156,
+        "rotation": -0.7853981633974483,
+        "scaleX": 0.9999794995173527,
+        "scaleY": 0.9999794995173527,
+        "skewX": -0.7853981633974483,
+        "skewY": -0.7853981633974483,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": -54,
+        "y": 160,
+        "rotation": -1.0472119798987014,
+        "scaleX": 0.9999944736329872,
+        "scaleY": 0.9999944736329872,
+        "skewX": -1.0472119798987014,
+        "skewY": -1.0472119798987014,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -38,
+        "y": 164,
+        "rotation": -1.308992808807025,
+        "scaleX": 0.9999866531271137,
+        "scaleY": 0.9999866531271137,
+        "skewX": -1.308992808807025,
+        "skewY": -1.308992808807025,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -23,
+        "y": 168,
+        "rotation": -1.5707963267948966,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": -1.5707963267948966,
+        "skewY": -1.5707963267948966,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": -36,
+        "y": 164,
+        "rotation": -1.3464107173867368,
+        "scaleX": 0.9999831303462521,
+        "scaleY": 0.9999831303462521,
+        "skewX": -1.3464107173867368,
+        "skewY": -1.3464107173867368,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": -50,
+        "y": 161,
+        "rotation": -1.1219915109965082,
+        "scaleX": 0.9999876545445764,
+        "scaleY": 0.9999876545445764,
+        "skewX": -1.1219915109965082,
+        "skewY": -1.1219915109965082,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": -64,
+        "y": 158,
+        "rotation": -0.897587689289927,
+        "scaleX": 0.9999865183163626,
+        "scaleY": 0.9999865183163626,
+        "skewX": -0.897587689289927,
+        "skewY": -0.897587689289927,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": -77,
+        "y": 154,
+        "rotation": -0.6732086375049695,
+        "skewX": -0.6732086375049695,
+        "skewY": -0.6732086375049695,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": -91,
+        "y": 151,
+        "rotation": -0.4488048157983883,
+        "scaleX": 0.9999876545445764,
+        "scaleY": 0.9999876545445764,
+        "skewX": -0.4488048157983883,
+        "skewY": -0.4488048157983883,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "x": -104,
+        "y": 148,
+        "rotation": -0.22438560940815974,
+        "scaleX": 0.9999831303462521,
+        "scaleY": 0.9999831303462521,
+        "skewX": -0.22438560940815974,
+        "skewY": -0.22438560940815974,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      }
+    ],
+    "tween9_Chickinner": [
+      {
+        "chilName": "tween9",
+        "parentTemplate": "Chickinner",
+        "x": 71,
+        "y": 167,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": 61,
+        "y": 168,
+        "rotation": 0.13088472600415912,
+        "scaleX": 0.9999775535934626,
+        "scaleY": 0.9999775535934626,
+        "skewX": 0.13088472600415912,
+        "skewY": 0.13088472600415912,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": 50,
+        "rotation": 0.2617779887110669,
+        "scaleX": 0.9999640159586742,
+        "scaleY": 0.9999640159586742,
+        "skewX": 0.2617779887110669,
+        "skewY": 0.2617779887110669,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": 40,
+        "rotation": 0.39268292632879803,
+        "scaleX": 0.9999376656850355,
+        "scaleY": 0.9999376656850355,
+        "skewX": 0.39268292632879803,
+        "skewY": 0.39268292632879803,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": 29,
+        "y": 169,
+        "rotation": 0.5235960647152109,
+        "scaleX": 0.9999131422487101,
+        "scaleY": 0.9999131422487101,
+        "skewX": 0.5235960647152109,
+        "skewY": 0.5235960647152109,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": 19,
+        "rotation": 0.6544795493097758,
+        "scaleX": 0.999904617076368,
+        "scaleY": 0.999904617076368,
+        "skewX": 0.6544795493097758,
+        "skewY": 0.6544795493097758,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": 9,
+        "rotation": 0.7853873727680313,
+        "scaleX": 0.9999039724230344,
+        "scaleY": 0.9999039724230344,
+        "skewX": 0.7853873727680313,
+        "skewY": 0.7853873727680313,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": 17,
+        "rotation": 0.6731941401443022,
+        "scaleX": 0.99985785726715,
+        "scaleY": 0.99985785726715,
+        "skewX": 0.6731941401443022,
+        "skewY": 0.6731941401443022,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": 26,
+        "rotation": 0.5609788381822826,
+        "scaleX": 0.9998808968897819,
+        "scaleY": 0.9998808968897819,
+        "skewX": 0.5609788381822826,
+        "skewY": 0.5609788381822826,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": 35,
+        "y": 168,
+        "rotation": 0.4487829259289134,
+        "scaleX": 0.9998924340244083,
+        "scaleY": 0.9998924340244083,
+        "skewX": 0.4487829259289134,
+        "skewY": 0.4487829259289134,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": 44,
+        "rotation": 0.33660496088272024,
+        "scaleX": 0.9998833862591711,
+        "scaleY": 0.9998833862591711,
+        "skewX": 0.33660496088272024,
+        "skewY": 0.33660496088272024,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": 53,
+        "rotation": 0.22438770930907306,
+        "scaleX": 0.9999053538225262,
+        "scaleY": 0.9999053538225262,
+        "skewX": 0.22438770930907306,
+        "skewY": 0.22438770930907306,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "x": 62,
+        "rotation": 0.11218231153911414,
+        "scaleX": 0.9999224365643581,
+        "scaleY": 0.9999224365643581,
+        "skewX": 0.11218231153911414,
+        "skewY": 0.11218231153911414,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      }
+    ],
+    "tween3_Chickinner": [
+      {
+        "chilName": "tween3",
+        "parentTemplate": "Chickinner",
+        "x": -151,
+        "y": -132,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": -153,
+        "y": -114,
+        "rotation": -0.21816248858627402,
+        "scaleX": 0.9999751940319724,
+        "scaleY": 0.9999751940319724,
+        "skewX": -0.21816248858627402,
+        "skewY": -0.21816248858627402,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": -157,
+        "y": -97,
+        "rotation": -0.4363201837221491,
+        "scaleX": 0.9999642557828383,
+        "scaleY": 0.9999642557828383,
+        "skewX": -0.4363201837221491,
+        "skewY": -0.4363201837221491,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": -160,
+        "y": -80,
+        "rotation": -0.6545093960067327,
+        "scaleX": 0.9999659840285723,
+        "scaleY": 0.9999659840285723,
+        "skewX": -0.6545093960067327,
+        "skewY": -0.6545093960067327,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": -163,
+        "y": -63,
+        "rotation": -0.8726936123703839,
+        "scaleX": 0.9999460274689614,
+        "scaleY": 0.9999460274689614,
+        "skewX": -0.8726936123703839,
+        "skewY": -0.8726936123703839,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": -166,
+        "y": -46,
+        "rotation": -1.0908448873921937,
+        "scaleX": 0.99995581079429,
+        "scaleY": 0.99995581079429,
+        "skewX": -1.0908448873921937,
+        "skewY": -1.0908448873921937,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": -170,
+        "y": -28,
+        "rotation": -1.3090143889337016,
+        "scaleX": 0.9999492770235311,
+        "scaleY": 0.9999492770235311,
+        "skewX": -1.3090143889337016,
+        "skewY": -1.3090143889337016,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": -167,
+        "y": -43,
+        "rotation": -1.1220266425665522,
+        "scaleX": 0.9999199297120662,
+        "scaleY": 0.9999199297120662,
+        "skewX": -1.1220266425665522,
+        "skewY": -1.1220266425665522,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": -164,
+        "y": -58,
+        "rotation": -0.9350014594679722,
+        "scaleX": 0.9999381383605943,
+        "scaleY": 0.9999381383605943,
+        "skewX": -0.9350014594679722,
+        "skewY": -0.9350014594679722,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": -161,
+        "y": -72,
+        "rotation": -0.7480010450149833,
+        "scaleX": 0.9999341622906525,
+        "scaleY": 0.9999341622906525,
+        "skewX": -0.7480010450149833,
+        "skewY": -0.7480010450149833,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": -158,
+        "y": -87,
+        "rotation": -0.5609803248454718,
+        "scaleX": 0.9999358931497,
+        "scaleY": 0.9999358931497,
+        "skewX": -0.5609803248454718,
+        "skewY": -0.5609803248454718,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": -156,
+        "y": -102,
+        "rotation": -0.37397194851803706,
+        "scaleX": 0.9999443883678356,
+        "scaleY": 0.9999443883678356,
+        "skewX": -0.37397194851803706,
+        "skewY": -0.37397194851803706,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "x": -153,
+        "y": -116,
+        "rotation": -0.18696306071646202,
+        "scaleX": 0.9999546372753004,
+        "scaleY": 0.9999546372753004,
+        "skewX": -0.18696306071646202,
+        "skewY": -0.18696306071646202,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      }
+    ],
+    "tween5_Chickinner": [
+      {
+        "chilName": "tween5",
+        "parentTemplate": "Chickinner",
+        "x": 2,
+        "y": -24,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 11,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {},
+      {}
+    ],
+    "tween1_Chickinner": [
+      {
+        "chilName": "tween1",
+        "parentTemplate": "Chickinner",
+        "x": 85,
+        "y": -56,
+        "alpha": 1,
+        "keyFrame": true,
+        "currentFrame": 0,
+        "endFrame": 0,
+        "pivotX": 0,
+        "pivotY": 0,
+        "rotation": 0,
+        "scaleX": 1,
+        "scaleY": 1,
+        "skewX": 0,
+        "skewY": 0,
+        "easing": "none"
+      },
+      {
+        "x": 89,
+        "y": -48,
+        "rotation": 0.1177060154134733,
+        "scaleX": 0.9999764466911241,
+        "scaleY": 0.9999764466911241,
+        "skewX": 0.1177060154134733,
+        "skewY": 0.1177060154134733,
+        "keyFrame": true,
+        "currentFrame": 1,
+        "endFrame": 1,
+        "easing": "none"
+      },
+      {
+        "x": 94,
+        "y": -41,
+        "rotation": 0.23541915655842124,
+        "scaleX": 0.9999796304872661,
+        "scaleY": 0.9999796304872661,
+        "skewX": 0.23541915655842124,
+        "skewY": 0.23541915655842124,
+        "keyFrame": true,
+        "currentFrame": 2,
+        "endFrame": 2,
+        "easing": "none"
+      },
+      {
+        "x": 98,
+        "y": -33,
+        "rotation": 0.35314487569838343,
+        "scaleX": 0.9999714812155363,
+        "scaleY": 0.9999714812155363,
+        "skewX": 0.35314487569838343,
+        "skewY": 0.35314487569838343,
+        "keyFrame": true,
+        "currentFrame": 3,
+        "endFrame": 3,
+        "easing": "none"
+      },
+      {
+        "x": 103,
+        "y": -26,
+        "rotation": 0.4708881722779698,
+        "scaleX": 0.9999583068459733,
+        "scaleY": 0.9999583068459733,
+        "skewX": 0.4708881722779698,
+        "skewY": 0.4708881722779698,
+        "keyFrame": true,
+        "currentFrame": 4,
+        "endFrame": 4,
+        "easing": "none"
+      },
+      {
+        "x": 107,
+        "y": -19,
+        "rotation": 0.5885908860754269,
+        "scaleX": 0.9999476603970654,
+        "scaleY": 0.9999476603970654,
+        "skewX": 0.5885908860754269,
+        "skewY": 0.5885908860754269,
+        "keyFrame": true,
+        "currentFrame": 5,
+        "endFrame": 5,
+        "easing": "none"
+      },
+      {
+        "x": 111,
+        "y": -11,
+        "rotation": 0.7063322654066169,
+        "scaleX": 0.9999528711731935,
+        "scaleY": 0.9999528711731935,
+        "skewX": 0.7063322654066169,
+        "skewY": 0.7063322654066169,
+        "keyFrame": true,
+        "currentFrame": 6,
+        "endFrame": 6,
+        "easing": "none"
+      },
+      {
+        "x": 108,
+        "y": -17,
+        "rotation": 0.6054114738856876,
+        "scaleX": 0.999904330201611,
+        "scaleY": 0.999904330201611,
+        "skewX": 0.6054114738856876,
+        "skewY": 0.6054114738856876,
+        "keyFrame": true,
+        "currentFrame": 7,
+        "endFrame": 7,
+        "easing": "none"
+      },
+      {
+        "x": 104,
+        "y": -24,
+        "rotation": 0.5045105936351711,
+        "scaleX": 0.9999138065720174,
+        "scaleY": 0.9999138065720174,
+        "skewX": 0.5045105936351711,
+        "skewY": 0.5045105936351711,
+        "keyFrame": true,
+        "currentFrame": 8,
+        "endFrame": 8,
+        "easing": "none"
+      },
+      {
+        "x": 100,
+        "y": -30,
+        "rotation": 0.40359737940987295,
+        "scaleX": 0.9999260917002117,
+        "scaleY": 0.9999260917002117,
+        "skewX": 0.40359737940987295,
+        "skewY": 0.40359737940987295,
+        "keyFrame": true,
+        "currentFrame": 9,
+        "endFrame": 9,
+        "easing": "none"
+      },
+      {
+        "x": 96,
+        "y": -36,
+        "rotation": 0.302698254168787,
+        "scaleX": 0.9999449035341512,
+        "scaleY": 0.9999449035341512,
+        "skewX": 0.302698254168787,
+        "skewY": 0.302698254168787,
+        "keyFrame": true,
+        "currentFrame": 10,
+        "endFrame": 10,
+        "easing": "none"
+      },
+      {
+        "x": 92,
+        "y": -43,
+        "rotation": 0.20180379716781913,
+        "scaleX": 0.9999368698199691,
+        "scaleY": 0.9999368698199691,
+        "skewX": 0.20180379716781913,
+        "skewY": 0.20180379716781913,
+        "keyFrame": true,
+        "currentFrame": 11,
+        "endFrame": 11,
+        "easing": "none"
+      },
+      {
+        "x": 88,
+        "y": -49,
+        "rotation": 0.1008833497376487,
+        "scaleX": 0.9999572402037542,
+        "scaleY": 0.9999572402037542,
+        "skewX": 0.1008833497376487,
+        "skewY": 0.1008833497376487,
+        "keyFrame": true,
+        "currentFrame": 12,
+        "endFrame": 12,
+        "easing": "none"
+      }
+    ]
+  },
+  "stage": {
+    "children": [
+      {
+        "type": "asset",
+        "editorOnly": false,
+        "name": "Templateb35v",
+        "template": true,
+        "guide": false,
+        "instanceName": "instance_ypa5",
+        "filters": {},
+        "portrait": {
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        },
+        "landscape": {
+          "x": 0,
+          "y": 0,
+          "rotation": 0,
+          "scaleX": 1,
+          "scaleY": 1,
+          "alpha": 1,
+          "pivotX": 0,
+          "pivotY": 0,
+          "visible": true,
+          "isAnchored": false,
+          "anchorLocalPercentage": {
+            "x": 0,
+            "y": 0
+          }
+        }
+      }
+    ],
+    "type": "Container",
+    "name": "stage"
+  },
+  "templates": {
+    "Templateb35v": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Bg",
+          "template": true,
+          "guide": false,
+          "instanceName": "bg",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 907,
+            "y": 0,
+            "height": 512,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 907,
+            "y": 0,
+            "height": 512,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Chick",
+          "template": true,
+          "guide": false,
+          "instanceName": "meMC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 0.89,
+            "scaleY": 0.69,
+            "visible": true,
+            "x": 354,
+            "skewX": 0,
+            "width": 420,
+            "y": 321,
+            "height": 461.45,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 0.89,
+            "scaleY": 0.69,
+            "visible": true,
+            "x": 354,
+            "skewX": 0,
+            "width": 420,
+            "y": 321,
+            "height": 461.45,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "playOnStart": true
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Water",
+          "template": true,
+          "guide": false,
+          "instanceName": "water",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 132,
+            "skewX": 0,
+            "width": 453.5,
+            "y": 349,
+            "height": 154.7,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 132,
+            "skewX": 0,
+            "width": 453.5,
+            "y": 349,
+            "height": 154.7,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Templateb35v"
+    },
+    "Bg": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BgMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "bgMC1",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 907,
+            "y": 0,
+            "height": 512,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 907,
+            "y": 0,
+            "height": 512,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Bg"
+    },
+    "BgMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BgMC1_IMG",
+          "width": 907,
+          "height": 512,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/BgMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BgMC1"
+    },
+    "Chick": {
+      "children": [
+        {
+          "type": "animation",
+          "editorOnly": false,
+          "name": "Chickinner",
+          "template": true,
+          "guide": false,
+          "instanceName": "chickinner",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 420,
+            "y": -1,
+            "height": 461.45,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 420,
+            "y": -1,
+            "height": 461.45,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "playOnStart": true
+        }
+      ],
+      "type": "animation",
+      "name": "Chick"
+    },
+    "Chickinner": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween7",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween7",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -119,
+            "skewX": 0,
+            "width": 119,
+            "y": 144,
+            "height": 72,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -119,
+            "skewX": 0,
+            "width": 119,
+            "y": 144,
+            "height": 72,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween9",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween9",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 71,
+            "skewX": 0,
+            "width": 121,
+            "y": 167,
+            "height": 126,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 71,
+            "skewX": 0,
+            "width": 121,
+            "y": 167,
+            "height": 126,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween3",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween3",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -151,
+            "skewX": 0,
+            "width": 119,
+            "y": -132,
+            "height": 198,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -151,
+            "skewX": 0,
+            "width": 119,
+            "y": -132,
+            "height": 198,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween5",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween5",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 2,
+            "skewX": 0,
+            "width": 286,
+            "y": -24,
+            "height": 371,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 2,
+            "skewX": 0,
+            "width": 286,
+            "y": -24,
+            "height": 371,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        },
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Tween1",
+          "template": true,
+          "guide": false,
+          "instanceName": "tween1",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 85,
+            "skewX": 0,
+            "width": 250,
+            "y": -56,
+            "height": 175,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 85,
+            "skewX": 0,
+            "width": 250,
+            "y": -56,
+            "height": 175,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "animation",
+      "name": "Chickinner"
+    },
+    "Tween7": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Leg1MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "leg1MC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -60,
+            "skewX": 0,
+            "width": 119,
+            "y": -36,
+            "height": 72,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -60,
+            "skewX": 0,
+            "width": 119,
+            "y": -36,
+            "height": 72,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween7"
+    },
+    "Leg1MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Leg1MC_IMG",
+          "width": 119,
+          "height": 72,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Leg1MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Leg1MC"
+    },
+    "Tween9": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Leg2MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "leg2MC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -61,
+            "skewX": 0,
+            "width": 121,
+            "y": -63,
+            "height": 126,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -61,
+            "skewX": 0,
+            "width": 121,
+            "y": -63,
+            "height": 126,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween9"
+    },
+    "Leg2MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Leg2MC_IMG",
+          "width": 121,
+          "height": 126,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Leg2MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Leg2MC"
+    },
+    "Tween3": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Wing1MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "wing1MC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -60,
+            "skewX": 0,
+            "width": 119,
+            "y": -99,
+            "height": 198,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -60,
+            "skewX": 0,
+            "width": 119,
+            "y": -99,
+            "height": 198,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween3"
+    },
+    "Wing1MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Wing1MC_IMG",
+          "width": 119,
+          "height": 198,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Wing1MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Wing1MC"
+    },
+    "Tween5": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "BodyMC",
+          "template": true,
+          "guide": false,
+          "instanceName": "bodyMC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -143,
+            "skewX": 0,
+            "width": 286,
+            "y": -186,
+            "height": 371,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -143,
+            "skewX": 0,
+            "width": 286,
+            "y": -186,
+            "height": 371,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween5"
+    },
+    "BodyMC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "BodyMC_IMG",
+          "width": 286,
+          "height": 371,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/BodyMC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "BodyMC"
+    },
+    "Tween1": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "Wing2MC",
+          "template": true,
+          "guide": false,
+          "instanceName": "wing2MC",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -125,
+            "skewX": 0,
+            "width": 250,
+            "y": -88,
+            "height": 175,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": -125,
+            "skewX": 0,
+            "width": 250,
+            "y": -88,
+            "height": 175,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Tween1"
+    },
+    "Wing2MC": {
+      "children": [
+        {
+          "type": "img",
+          "name": "Wing2MC_IMG",
+          "width": 250,
+          "height": 175,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/Wing2MC.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "Wing2MC"
+    },
+    "Water": {
+      "children": [
+        {
+          "type": "asset",
+          "editorOnly": false,
+          "name": "WaterMC1",
+          "template": true,
+          "guide": false,
+          "instanceName": "waterMC1",
+          "filters": {},
+          "portrait": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 453.5,
+            "y": 0,
+            "height": 154.7,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          },
+          "landscape": {
+            "pivotY": 0,
+            "skewY": 0,
+            "scaleX": 1,
+            "scaleY": 1,
+            "visible": true,
+            "x": 0,
+            "skewX": 0,
+            "width": 453.5,
+            "y": 0,
+            "height": 154.7,
+            "rotation": 0,
+            "alpha": 1,
+            "isAnchored": false,
+            "pivotX": 0
+          }
+        }
+      ],
+      "type": "asset",
+      "name": "Water"
+    },
+    "WaterMC1": {
+      "children": [
+        {
+          "type": "img",
+          "name": "WaterMC1_IMG",
+          "width": 454,
+          "height": 155,
+          "x": 0,
+          "y": 0,
+          "pivotX": 0,
+          "pivotY": 0,
+          "filePath": "images/WaterMC1.webp",
+          "filters": {}
+        }
+      ],
+      "type": "asset",
+      "name": "WaterMC1"
+    }
+  },
+  "fonts": [],
+  "fps": 24,
+  "cuePoints": {},
+  "atlas": false,
+  "stageColor": 4868682
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Granny Tales - A New Mother</title>
+    <style>
+        html,
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: black;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        /* Rotate the entire page when in portrait so it always appears landscape. */
+        @media (orientation: portrait) {
+            body {
+                width: 100vh;
+                height: 100vw;
+                transform: rotate(90deg);
+                transform-origin: top left;
+                position: fixed;
+                top: 0;
+                left: 100vw;
+                overflow: hidden;
+            }
+        }
+
+        #game-container {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <div id="game-container"></div>
+    <script src="bundle.js"></script>
+
+    <script>
+        // Try to lock orientation to landscape via the Orientation API.
+        // Works in fullscreen on Android Chrome; silently ignored elsewhere.
+        function lockLandscape() {
+            try {
+                screen.orientation.lock('landscape').catch(() => {});
+            } catch (e) {}
+        }
+
+        window.addEventListener('click', function enterFullscreen() {
+            if (!document.fullscreenElement) {
+                document.documentElement.requestFullscreen()
+                    .then(lockLandscape)
+                    .catch(err => {
+                        console.error(`Error attempting fullscreen: ${err.message}`);
+                    });
+            }
+            window.removeEventListener('click', enterFullscreen);
+        });
+
+        // Also attempt lock immediately in case we're already fullscreen.
+        lockLandscape();
+    </script>
+</body>
+
+</html>
