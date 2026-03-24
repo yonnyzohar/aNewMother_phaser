@@ -43,6 +43,7 @@ export class BookController {
     private voiceAudio: HTMLAudioElement | null = null;
     private loading = false;
     private pageMask: Phaser.GameObjects.Graphics | null = null;
+    private _pageMaskUpdater: (() => void) | null = null;
     private slotOrigY: Map<ZContainer, number> = new Map();
     private currentOrientation: string = "";
 
@@ -131,21 +132,32 @@ export class BookController {
         // Everything is ready — add to real scene and resize stack now
         this.phaserScene.add.existing(this.blockScene.sceneStage);
         ZSceneStack.push(this.blockScene);
+        // Force ZSceneStack to reposition the scene now that it's on the display list.
+        // (Other screens call push before loadStage so the stack positions during load;
+        // here we add manually first, so an explicit resize is needed to centre it.)
+        ZSceneStack.resize(window.innerWidth, window.innerHeight);
+        // Redraw the page mask now that the scene is in its final world-space position.
+        // _applyMask ran while blockScene was still off the display list, so the bounds
+        // it captured were wrong. Calling the updater here fixes the initial draw, and
+        // subsequent resize events (e.g. entering fullscreen) will also call it.
+        this._pageMaskUpdater?.();
 
         let blockMaster = this.blockScene.sceneStage.get("blockMaster") as ZContainer;
 
         // Position the Graphics at screen center so GSAP scale grows the circle
         // outward from the center of the screen (GeometryMask uses world-space geometry).
+        // Use make.graphics({add:false}) so it never enters the display list and never
+        // renders as a visible black circle on screen.
         const cx = window.innerWidth / 2;
         const cy = window.innerHeight / 2;
-        let circle = this.phaserScene.add.graphics();
+        let circle = new Phaser.GameObjects.Graphics(this.phaserScene);
         circle.setPosition(cx, cy);
         circle.fillStyle(0x000000, 1);
         circle.fillCircle(0, 0, 50);
         blockMaster.setMask(new Phaser.Display.Masks.GeometryMask(this.phaserScene, circle));
         if (this.tween) this.tween.kill();
         
-        // Tween a Phaser display object's properties over 2 seconds
+        // Tween scale from 1→20 to grow the circle from center, revealing the content
         this.tween = gsap.to(circle, {
             duration: 2,
             scaleX: 20,
@@ -267,6 +279,7 @@ export class BookController {
             // Old sprites are destroyed — now safe to free the orphaned GL textures.
             destroyEvictedTextures(orphanTextures);
             this.pageMask = null;
+            this._pageMaskUpdater = null;
             this.currentPageScene = null;
             this.currentPagePath = null;
             this.blockBGContainer?.add(scene.sceneStage);
@@ -331,6 +344,7 @@ export class BookController {
                 // Old sprites are destroyed — now safe to free the orphaned GL textures.
                 destroyEvictedTextures(orphanTextures);
                 this.pageMask = null;
+                this._pageMaskUpdater = null;
                 this.currentPageScene = null;
                 this.currentPagePath = null;
 
@@ -353,17 +367,22 @@ export class BookController {
             this.slideTween.to(this.filmSides!, { y: centerFilmY + deltaY, alpha: 0, duration: 0.8, ease: 'power2.inOut' }, 0);
     }
 
-    /** Apply a Graphics-based mask to a newly-loaded scene in a given container. */
+    /** Apply a Graphics-based mask to a newly-loaded scene in a given container.
+     *  Stores a redraw closure so the mask can be repositioned on resize. */
     private _applyMask(scene: ZScene, container: ZContainer): void {
         const innerMSK = container.getByName('innerMSK') as Phaser.GameObjects.Container | null;
         if (!innerMSK) return;
-        const bounds = innerMSK.getBounds();
-        const gfxMask = this.phaserScene.add.graphics();
-        gfxMask.setVisible(false); // must not render visibly — Phaser still uses the geometry for stenciling
-        gfxMask.fillStyle(0xffffff);
-        gfxMask.fillRect(bounds.x, bounds.y, bounds.width, bounds.height);
-        // Do NOT add to container — in Phaser, children of a container are rendered visually.
-        // GeometryMask calls gfxMask.renderWebGL() directly into the stencil buffer regardless.
+        // Use direct instantiation — never added to the display list, so it
+        // never renders visibly, while still working as a stencil mask.
+        const gfxMask = new Phaser.GameObjects.Graphics(this.phaserScene);
+        const drawMask = () => {
+            const b = innerMSK.getBounds();
+            gfxMask.clear();
+            gfxMask.fillStyle(0xffffff);
+            gfxMask.fillRect(b.x, b.y, b.width, b.height);
+        };
+        drawMask();
+        this._pageMaskUpdater = drawMask;
         scene.sceneStage.setMask(new Phaser.Display.Masks.GeometryMask(this.phaserScene, gfxMask));
         this.pageMask = gfxMask;
     }
@@ -419,11 +438,11 @@ export class BookController {
 
         const cx = window.innerWidth / 2;
         const cy = window.innerHeight / 2;
-        let circle = this.phaserScene.add.graphics();
+        let circle = new Phaser.GameObjects.Graphics(this.phaserScene);
         circle.setPosition(cx, cy);
         circle.fillStyle(0x000000, 1);
         circle.fillCircle(0, 0, 50);
-        circle.setScale(20, 20);
+        circle.setScale(20, 20); // start fully covering the screen, then shrink to 0
         blockMaster.setMask(new Phaser.Display.Masks.GeometryMask(this.phaserScene, circle));
         if (this.tween) this.tween.kill();
         
@@ -522,6 +541,9 @@ export class BookController {
      * Block frame scene.  Re-fits the page and repositions buttons/caption.
      */
     resize(_W: number, _H: number): void {
+        // Redraw the page mask at its new world-space position after ZSceneStack repositioned the scene.
+        this._pageMaskUpdater?.();
+
         // page scaling is fixed at load time; no resize action needed.
         let orient = window.innerWidth > window.innerHeight ? "landscape" : "portrait";
         if(orient !== this.currentOrientation)
